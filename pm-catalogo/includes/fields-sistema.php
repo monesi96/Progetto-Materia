@@ -77,13 +77,16 @@ add_action( 'acf/init', function () {
 				'type' => 'repeater', 'layout' => 'block', 'button_label' => 'Aggiungi strato',
 				'instructions' => 'Dal basso verso l\'alto: ogni strato è uno step applicativo con il suo prodotto.',
 				'sub_fields' => array(
-					array( 'key' => 'f_pms_s_step', 'name' => 'step', 'label' => 'Step', 'type' => 'text', 'wrapper' => array( 'width' => '15' ), 'instructions' => 'Es. 1, 2, 3…' ),
-					array( 'key' => 'f_pms_s_ruolo', 'name' => 'ruolo', 'label' => 'Ruolo', 'type' => 'text', 'wrapper' => array( 'width' => '25' ), 'instructions' => 'Es. Primer, Corpo, Finitura, Top protettivo.' ),
+					array( 'key' => 'f_pms_s_step', 'name' => 'step', 'label' => 'Step', 'type' => 'text', 'wrapper' => array( 'width' => '10' ), 'instructions' => 'Es. 1, 2, 3…' ),
+					array( 'key' => 'f_pms_s_ruolo', 'name' => 'ruolo', 'label' => 'Ruolo', 'type' => 'text', 'wrapper' => array( 'width' => '20' ), 'instructions' => 'Es. Primer, Corpo, Finitura, Top protettivo.' ),
 					array(
 						'key'  => 'f_pms_s_prodotto', 'name' => 'prodotto', 'label' => 'Prodotto',
 						'type' => 'relationship', 'post_type' => array( 'pm_prodotto' ),
-						'max'  => 1, 'return_format' => 'id', 'wrapper' => array( 'width' => '35' ),
+						'max'  => 1, 'return_format' => 'id', 'wrapper' => array( 'width' => '30' ),
 					),
+					array( 'key' => 'f_pms_s_additivi', 'name' => 'additivi', 'label' => 'Additivi / complementari', 'type' => 'text', 'wrapper' => array( 'width' => '40' ), 'instructions' => 'Es. + PROQUARZ 04/06, + PRONET 100, + COLOR FLAKES.' ),
+					array( 'key' => 'f_pms_s_attrezzo', 'name' => 'attrezzo', 'label' => 'Attrezzo', 'type' => 'text', 'wrapper' => array( 'width' => '25' ), 'instructions' => 'Es. rullo pelo medio, spatola liscia.' ),
+					array( 'key' => 'f_pms_s_diluizione', 'name' => 'diluizione', 'label' => 'Diluizione', 'type' => 'text', 'wrapper' => array( 'width' => '25' ), 'instructions' => 'Es. acqua 50%.' ),
 					array( 'key' => 'f_pms_s_consumo', 'name' => 'consumo', 'label' => 'Consumo', 'type' => 'text', 'wrapper' => array( 'width' => '25' ), 'instructions' => 'Es. 0,3 kg/m² per mano.' ),
 					array( 'key' => 'f_pms_s_note', 'name' => 'note', 'label' => 'Note applicative', 'type' => 'textarea', 'rows' => 2 ),
 				),
@@ -97,7 +100,33 @@ add_action( 'acf/init', function () {
 			array( 'key' => 'f_pms_tab_dt', 'label' => 'Dati tecnici', 'type' => 'tab' ),
 			array(
 				'key'  => 'f_pms_spessore', 'name' => 'spessore', 'label' => 'Spessore totale',
-				'type' => 'text', 'instructions' => 'Es. 0,8–1,0 mm.',
+				'type' => 'text', 'wrapper' => array( 'width' => '33' ), 'instructions' => 'Es. 0,8–1,0 mm.',
+			),
+			array(
+				'key'  => 'f_pms_n_mani', 'name' => 'n_mani', 'label' => 'N. mani',
+				'type' => 'text', 'wrapper' => array( 'width' => '33' ),
+			),
+			array(
+				'key'  => 'f_pms_sottofondo', 'name' => 'tipo_sottofondo', 'label' => 'Tipo sottofondo',
+				'type' => 'text', 'wrapper' => array( 'width' => '34' ),
+				'instructions' => 'Es. Nuovo, Nuovo o verniciato, Usurato, Usurato e umido.',
+			),
+			array(
+				'key'  => 'f_pms_tempi', 'name' => 'tempi_applicazione', 'label' => 'Tempi di applicazione',
+				'type' => 'text', 'wrapper' => array( 'width' => '50' ), 'instructions' => 'Es. 4 gg.',
+			),
+			array(
+				'key'  => 'f_pms_calpestabile', 'name' => 'calpestabile_dopo', 'label' => 'Calpestabile dopo',
+				'type' => 'text', 'wrapper' => array( 'width' => '50' ), 'instructions' => 'Es. 2 gg.',
+			),
+			array(
+				'key'  => 'f_pms_rating', 'name' => 'rating', 'label' => 'Rating prestazionali (pallini /5)',
+				'type' => 'repeater', 'layout' => 'table', 'button_label' => 'Aggiungi rating',
+				'instructions' => 'Gli assi cambiano per linea: ProSurfaces usa Abrasione/Traffico/Chimica, Waterproof usa Elasticità/Adesione/Pedonabilità.',
+				'sub_fields' => array(
+					array( 'key' => 'f_pms_r_l', 'name' => 'etichetta', 'label' => 'Etichetta', 'type' => 'text' ),
+					array( 'key' => 'f_pms_r_v', 'name' => 'valore', 'label' => 'Valore (0–5)', 'type' => 'number', 'min' => 0, 'max' => 5 ),
+				),
 			),
 			array(
 				'key'  => 'f_pms_dati_tecnici', 'name' => 'dati_tecnici', 'label' => 'Altri dati tecnici',
