@@ -8109,6 +8109,157 @@
     }
   },
   {
+    "titolo": "Smaltozinc Ferromicaceo",
+    "excerpt": "Smalto anticorrosivo all'acqua opaco ad effetto antichizzante a base di ossido di ferromicaceo, per la protezione e la decorazione di supporti ferrosi.",
+    "linea": [
+      "Procoating"
+    ],
+    "categorie": [
+      "Interni",
+      "Idrosmalti"
+    ],
+    "destinazioni": [
+      "Ferro e metalli"
+    ],
+    "campi": {
+      "codice": "",
+      "sottotitolo": "Idrosmalto anticorrosivo ferromicaceo ad effetto antichizzante",
+      "descrizione": "<p>Smalto anticorrosivo all'acqua opaco ad effetto antichizzante a base di ossido di ferromicaceo. Ideale per la protezione e la decorazione di supporti ferrosi. Ottima finitura e coprenza.</p>",
+      "caratteristiche": [
+        {
+          "testo": "Componenti: 1K"
+        },
+        {
+          "testo": "Idrosmalto anticorrosivo ad alta adesione"
+        },
+        {
+          "testo": "Indicato per: Interni ed esterni - ferro / supporti metallici"
+        },
+        {
+          "testo": "Colore: a listino 9558, 9590, colorato"
+        },
+        {
+          "testo": "Aspetto finale: Opaco effetto antichizzante"
+        }
+      ],
+      "applicazione": "Interni ed esterni - ferro / supporti metallici",
+      "resa": "8 mq/L per mano",
+      "diluizione": "Pronto all'uso o max 10% con acqua",
+      "essiccazione": "",
+      "voce_capitolato": "Smalto anticorrosivo all'acqua opaco ad effetto antichizzante a base di ossido di ferromicaceo.",
+      "dati_tecnici": [
+        {
+          "etichetta": "Tipo di prodotto",
+          "valore": "Idrosmalto anticorrosivo ad alta adesione"
+        },
+        {
+          "etichetta": "Tipo di prodotto (EN)",
+          "valore": "High-adhesion anti-corrosive water-based enamel"
+        },
+        {
+          "etichetta": "Voce di capitolato (EN)",
+          "valore": "Matte anti-corrosive water-based enamel with an antiquing effect based on micaceous iron oxide. Ideal for the protection and decoration of ferrous substrates. Excellent finish and coverage."
+        },
+        {
+          "etichetta": "Applicazione (EN)",
+          "valore": "Interiors and exteriors - iron / metal substrates"
+        },
+        {
+          "etichetta": "Attrezzi consigliati",
+          "valore": "Pennello / Rullo / Airless / Spatola"
+        },
+        {
+          "etichetta": "Pulizia attrezzi",
+          "valore": "Acqua"
+        },
+        {
+          "etichetta": "Resa teorica (EN)",
+          "valore": "8 sqm/L per coat"
+        },
+        {
+          "etichetta": "Diluizione (EN)",
+          "valore": "Ready to use or max 10% with water"
+        },
+        {
+          "etichetta": "Colore",
+          "valore": "A listino: 9558, 9590, colorato"
+        },
+        {
+          "etichetta": "Confezioni (listino)",
+          "valore": "2,5 L | 0,75 L"
+        },
+        {
+          "etichetta": "Fonte",
+          "valore": "Sistema tintometrico PM-ST (scheda 13) e listino PC-Interni; prodotto non presente nel catalogo Procoating"
+        }
+      ],
+      "certificazioni": [],
+      "confezioni": [
+        {
+          "codice": "400-9558",
+          "formato": "L 2,5",
+          "colore": "9558",
+          "componenti": "",
+          "prezzo": "€ 69,00",
+          "pezzi_minimo": "4",
+          "pallet": "4X4 (64 PZ)",
+          "note": "SMALTOZINC FERROMICACEO L 2,5 / COL: 9558"
+        },
+        {
+          "codice": "400-C",
+          "formato": "L 2,5",
+          "colore": "COLORATO",
+          "componenti": "",
+          "prezzo": "€ 69,00",
+          "pezzi_minimo": "4",
+          "pallet": "4X4 (64 PZ)",
+          "note": "SMALTOZINC FERROMICACEO L 2,5 / COLORATO"
+        },
+        {
+          "codice": "400-9590",
+          "formato": "L 2,5",
+          "colore": "9590",
+          "componenti": "",
+          "prezzo": "€ 69,00",
+          "pezzi_minimo": "4",
+          "pallet": "4X4 (64 PZ)",
+          "note": "SMALTOZINC FERROMICACEO L 2,5/ COL: 9590"
+        },
+        {
+          "codice": "401-9558",
+          "formato": "L 0,75",
+          "colore": "9558",
+          "componenti": "",
+          "prezzo": "€ 24,15",
+          "pezzi_minimo": "6",
+          "pallet": "9X5 (270 PZ)",
+          "note": "SMALTOZINC FERROMICACEO L 0,75 / COL: 9558"
+        },
+        {
+          "codice": "401-9590",
+          "formato": "L 0,75",
+          "colore": "9590",
+          "componenti": "",
+          "prezzo": "€ 24,15",
+          "pezzi_minimo": "6",
+          "pallet": "9X5 (270 PZ)",
+          "note": "SMALTOZINC FERROMICACEO L 0,75 / COL: 9590"
+        },
+        {
+          "codice": "401-C",
+          "formato": "L 0,75",
+          "colore": "COLORATO",
+          "componenti": "",
+          "prezzo": "€ 24,15",
+          "pezzi_minimo": "6",
+          "pallet": "9X5 (270 PZ)",
+          "note": "SMALTOZINC FERROMICACEO L 0,75 / COLORATO"
+        }
+      ],
+      "tintometro": true
+    }
+  },
+  {
     "titolo": "Eco Matt Depura",
     "excerpt": "Idropittura professionale a base di polimeri acrilici in emulsione acquosa.",
     "linea": [
