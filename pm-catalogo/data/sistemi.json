@@ -1,0 +1,3816 @@
+[
+  {
+    "titolo": "Impregnazione trasparente",
+    "excerpt": "Trattamento trasparente finalizzato a ridurre la porosità della superficie migliorando le prestazioni di coesione ed antimacchia dello strato corticale del massetto.",
+    "linea": [
+      "Prosurfaces"
+    ],
+    "problemi": [
+      "Massetto nuovo che assorbe liquidi e si macchia"
+    ],
+    "destinazioni": [
+      "Massetti/pavimenti industriali nuovi, anche non stagionati"
+    ],
+    "campi": {
+      "codice": "PS.01",
+      "nome_tecnico": "Sistema incorporato di impregnazione trasparente",
+      "descrizione": "<p>Trattamento trasparente finalizzato a ridurre la porosità della superficie migliorando le prestazioni di coesione ed antimacchia dello strato corticale del massetto. Conferisce al massetto nuovo, anche non stagionato, caratteristiche di maggiore resistenza all'assorbimento di liquidi in generale e facilità di lavaggio.</p>",
+      "problema_titolo": "Massetto nuovo poroso che assorbe e si macchia",
+      "problema_testo": "Massetti cementizi nuovi (anche non stagionati) porosi, che assorbono liquidi e si macchiano; necessità di consolidare lo strato corticale e facilitare il lavaggio senza film colorato.",
+      "soluzione_testo": "<p>Trattamento trasparente finalizzato a ridurre la porosità della superficie migliorando le prestazioni di coesione ed antimacchia dello strato corticale del massetto. Conferisce al massetto nuovo, anche non stagionato, caratteristiche di maggiore resistenza all'assorbimento di liquidi in generale e facilità di lavaggio.</p>",
+      "vantaggi": [
+        {
+          "testo": "Riduce la porosità superficiale"
+        },
+        {
+          "testo": "Migliora coesione e resistenza antimacchia dello strato corticale"
+        },
+        {
+          "testo": "Maggiore resistenza all'assorbimento di liquidi"
+        },
+        {
+          "testo": "Facilità di lavaggio"
+        },
+        {
+          "testo": "Trasparente: non altera l'aspetto del massetto"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "primer/impregnazione",
+          "prodotto": "Epoxite PF300-T",
+          "additivi": "",
+          "attrezzo": "rullo pelo medio",
+          "diluizione": "acqua al 50%",
+          "consumo": "",
+          "note": "Primo strato di resina epossidica trasparente diluita al 50% con acqua. Rif. scheda prodotto p. 85 (resa teorica 0,065 kg/m² per mano diluito al 50%)."
+        },
+        {
+          "step": "2",
+          "ruolo": "finitura/seconda impregnazione",
+          "prodotto": "Epoxite PF300-T",
+          "additivi": "",
+          "attrezzo": "rullo pelo medio o spruzzo",
+          "diluizione": "acqua al 10%",
+          "consumo": "",
+          "note": "Secondo strato diluito al 10% con acqua, a rullo o a spruzzo."
+        }
+      ],
+      "spessore": "- (impregnante, nessun film misurabile)",
+      "n_mani": "2",
+      "tipo_sottofondo": "Nuovo",
+      "tempi_applicazione": "3 gg",
+      "calpestabile_dopo": "2 gg",
+      "rating": [
+        {
+          "etichetta": "Resistenza chimica",
+          "valore": 2
+        }
+      ],
+      "dati_tecnici": [
+        {
+          "etichetta": "Nome sistema (EN)",
+          "valore": "Incorporated transparent impregnation system"
+        },
+        {
+          "etichetta": "Prerequisito",
+          "valore": "Preparazione del supporto / Surface preparation (pagg. 28-31 del catalogo)"
+        }
+      ],
+      "certificazioni": []
+    }
+  },
+  {
+    "titolo": "Epossidico traspirante a strato sottile",
+    "excerpt": "Sistema resinoso, colorato, in grado di formare un film continuo con spessori a secco fino a 300 micron.",
+    "linea": [
+      "Prosurfaces"
+    ],
+    "problemi": [
+      "Pavimento da colorare senza bloccare il vapore",
+      "Lavaggi frequenti con prodotti chimici"
+    ],
+    "destinazioni": [
+      "Pavimenti industriali nuovi o già verniciati",
+      "Ambienti con esigenze HACCP"
+    ],
+    "campi": {
+      "codice": "PS.02",
+      "nome_tecnico": "Sistema riportato epossidico traspirante a strato sottile",
+      "descrizione": "<p>Sistema resinoso, colorato, in grado di formare un film continuo con spessori a secco fino a 300 micron. Conferisce al supporto caratteristiche di permeabilità al vapore e resistenze ai lavaggi con prodotti chimici.</p>",
+      "problema_titolo": "Serve un film colorato sottile che lasci respirare il supporto",
+      "problema_testo": "Supporti nuovi o già verniciati che richiedono un film colorato continuo, sottile e traspirante (permeabile al vapore), resistente ai lavaggi chimici, senza barriera al vapore.",
+      "soluzione_testo": "<p>Sistema resinoso, colorato, in grado di formare un film continuo con spessori a secco fino a 300 micron. Conferisce al supporto caratteristiche di permeabilità al vapore e resistenze ai lavaggi con prodotti chimici.</p>",
+      "vantaggi": [
+        {
+          "testo": "Film continuo colorato fino a 300 micron a secco"
+        },
+        {
+          "testo": "Permeabilità al vapore (traspirante)"
+        },
+        {
+          "testo": "Resistenza ai lavaggi con prodotti chimici"
+        },
+        {
+          "testo": "Applicazione rapida a rullo"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "primer",
+          "prodotto": "Epoxite PF300-T",
+          "additivi": "",
+          "attrezzo": "rullo pelo medio",
+          "diluizione": "acqua al 50%",
+          "consumo": "",
+          "note": "Primo strato di resina epossidica trasparente."
+        },
+        {
+          "step": "2",
+          "ruolo": "corpo (prima mano colorata)",
+          "prodotto": "Epoxite VF300 / VF200",
+          "additivi": "",
+          "attrezzo": "rullo pelo medio",
+          "diluizione": "acqua al 10%",
+          "consumo": "",
+          "note": "Variante colorata (-C). Prima mano di resina epossidica colorata EPOXITE VF200/300. Rif. p. 88 (resa 0,125 kg/m² per mano A+B +10% acqua)."
+        },
+        {
+          "step": "3",
+          "ruolo": "finitura (seconda mano colorata)",
+          "prodotto": "Epoxite VF300 / VF200",
+          "additivi": "",
+          "attrezzo": "rullo pelo medio",
+          "diluizione": "acqua al 10%",
+          "consumo": "",
+          "note": "Variante colorata (-C). Seconda mano di resina epossidica colorata EPOXITE VF200/300."
+        }
+      ],
+      "spessore": "< 300 micron",
+      "n_mani": "3",
+      "tipo_sottofondo": "Nuovo o verniciato",
+      "tempi_applicazione": "4 gg",
+      "calpestabile_dopo": "2 gg",
+      "rating": [
+        {
+          "etichetta": "Resistenza abrasione",
+          "valore": 4
+        },
+        {
+          "etichetta": "Resistenza traffico",
+          "valore": 3
+        },
+        {
+          "etichetta": "Resistenza chimica",
+          "valore": 4
+        }
+      ],
+      "dati_tecnici": [
+        {
+          "etichetta": "Nome sistema (EN)",
+          "valore": "Epoxy breathable thin-layer coating system"
+        },
+        {
+          "etichetta": "Prerequisito",
+          "valore": "Preparazione del supporto / Surface preparation (pagg. 28-31 del catalogo)"
+        }
+      ],
+      "certificazioni": [
+        {
+          "nome": "HACCP Certified"
+        }
+      ]
+    }
+  },
+  {
+    "titolo": "Poliuretanico UV-resistente a strato sottile",
+    "excerpt": "Sistema resinoso, colorato, in grado di formare un film continuo con spessori a secco fino a 300 micron con resina poliuretanica alifatica a solvente.",
+    "linea": [
+      "Prosurfaces"
+    ],
+    "problemi": [
+      "Pavimento esterno esposto a sole e intemperie",
+      "Parcheggio da proteggere da liquidi aggressivi"
+    ],
+    "destinazioni": [
+      "Pavimenti in poliuretano-cemento",
+      "Pavimenti industriali",
+      "Parcheggi multipiano",
+      "Superfici esposte a intemperie e sole"
+    ],
+    "campi": {
+      "codice": "PS.03",
+      "nome_tecnico": "Sistema riportato poliuretanico UV-resistente a strato sottile",
+      "descrizione": "<p>Sistema resinoso, colorato, in grado di formare un film continuo con spessori a secco fino a 300 micron con resina poliuretanica alifatica a solvente. Conferisce al supporto caratteristiche di alta impermeabilità ai liquidi anche aggressivi e resistenze ai lavaggi con prodotti chimici. Sistema idoneo per verniciature di pavimenti realizzati in poliuretano-cemento, pavimenti industriali o parcheggi multipiano anche quando esposti ad intemperie e sole.</p>",
+      "problema_titolo": "Esterni, UV e liquidi aggressivi",
+      "problema_testo": "Superfici esposte a intemperie, sole (UV) e liquidi aggressivi che richiedono un film sottile colorato non ingiallente e impermeabile (es. esterni, parcheggi multipiano).",
+      "soluzione_testo": "<p>Sistema resinoso, colorato, in grado di formare un film continuo con spessori a secco fino a 300 micron con resina poliuretanica alifatica a solvente. Conferisce al supporto caratteristiche di alta impermeabilità ai liquidi anche aggressivi e resistenze ai lavaggi con prodotti chimici. Sistema idoneo per verniciature di pavimenti realizzati in poliuretano-cemento, pavimenti industriali o parcheggi multipiano anche quando esposti ad intemperie e sole.</p>",
+      "vantaggi": [
+        {
+          "testo": "Resistenza ai raggi UV (poliuretanica alifatica)"
+        },
+        {
+          "testo": "Alta impermeabilità ai liquidi anche aggressivi"
+        },
+        {
+          "testo": "Resistenza ai lavaggi con prodotti chimici"
+        },
+        {
+          "testo": "Idoneo anche in esterno"
+        },
+        {
+          "testo": "Film continuo fino a 300 micron a secco"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "primer",
+          "prodotto": "Epoxite PF300-T",
+          "additivi": "",
+          "attrezzo": "rullo pelo medio",
+          "diluizione": "acqua al 50%",
+          "consumo": "",
+          "note": "Primer epossidico trasparente."
+        },
+        {
+          "step": "2",
+          "ruolo": "corpo (prima mano colorata)",
+          "prodotto": "Purtop VF300 / VF200",
+          "additivi": "",
+          "attrezzo": "rullo pelo medio",
+          "diluizione": "DPU al 10%",
+          "consumo": "",
+          "note": "Variante colorata (-C). Prima mano PURTOP VF300/200 colorato diluito con DPU al 10%. (Il testo del catalogo la definisce 'resina epossidica' ma il prodotto PURTOP è poliuretanico alifatico a solvente, cfr. scheda p. 91; la diluizione da scheda è con PRODILUENTE PU/04.)"
+        },
+        {
+          "step": "3",
+          "ruolo": "finitura (seconda mano colorata)",
+          "prodotto": "Purtop VF300 / VF200",
+          "additivi": "",
+          "attrezzo": "rullo pelo medio",
+          "diluizione": "DPU al 10%",
+          "consumo": "",
+          "note": "Variante colorata (-C). Seconda mano PURTOP VF300/200 colorato."
+        }
+      ],
+      "spessore": "300 micron",
+      "n_mani": "3",
+      "tipo_sottofondo": "Nuovo o verniciato",
+      "tempi_applicazione": "4 gg",
+      "calpestabile_dopo": "2 gg",
+      "rating": [
+        {
+          "etichetta": "Resistenza abrasione",
+          "valore": 5
+        },
+        {
+          "etichetta": "Resistenza traffico",
+          "valore": 3
+        },
+        {
+          "etichetta": "Resistenza chimica",
+          "valore": 5
+        }
+      ],
+      "dati_tecnici": [
+        {
+          "etichetta": "Nome sistema (EN)",
+          "valore": "UV-resistant thin-layer polyurethane coating system"
+        },
+        {
+          "etichetta": "Prerequisito",
+          "valore": "Preparazione del supporto / Surface preparation (pagg. 28-31 del catalogo)"
+        }
+      ],
+      "certificazioni": []
+    }
+  },
+  {
+    "titolo": "Malta spatolata 0,8-1,0 mm",
+    "excerpt": "Sistema resinoso multistrato, colorato, in grado di formare un film continuo con finitura antiscivolo e spessori a secco fino a 1 mm.",
+    "linea": [
+      "Prosurfaces"
+    ],
+    "problemi": [
+      "Pavimento industriale usurato da ripristinare",
+      "Superficie scivolosa"
+    ],
+    "destinazioni": [
+      "Pavimentazioni industriali usurate",
+      "Ambienti con esigenze HACCP"
+    ],
+    "campi": {
+      "codice": "PS.04",
+      "nome_tecnico": "Sistema multistrato a malta spatolata per pavimentazioni industriali di spessore 0,8–1,0 mm",
+      "descrizione": "<p>Sistema resinoso multistrato, colorato, in grado di formare un film continuo con finitura antiscivolo e spessori a secco fino a 1 mm. Conferisce al supporto caratteristiche di alta resistenza ai prodotti chimici e facilità di lavaggio.</p>",
+      "problema_titolo": "Pavimentazione industriale usurata da ripristinare",
+      "problema_testo": "Pavimentazioni industriali usurate che richiedono ripristino con film continuo colorato antiscivolo di ~1 mm, alta resistenza chimica e facilità di lavaggio.",
+      "soluzione_testo": "<p>Sistema resinoso multistrato, colorato, in grado di formare un film continuo con finitura antiscivolo e spessori a secco fino a 1 mm. Conferisce al supporto caratteristiche di alta resistenza ai prodotti chimici e facilità di lavaggio.</p>",
+      "vantaggi": [
+        {
+          "testo": "Finitura antiscivolo"
+        },
+        {
+          "testo": "Alta resistenza ai prodotti chimici"
+        },
+        {
+          "testo": "Facilità di lavaggio"
+        },
+        {
+          "testo": "Spessore fino a 1 mm su supporti usurati"
+        },
+        {
+          "testo": "Finitura trasparente antigraffio acriluretanica"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "primer fillerizzato",
+          "prodotto": "Epoxite PR100-T",
+          "additivi": "+ PROQUARZ 04",
+          "attrezzo": "rullo o spatola",
+          "diluizione": "acqua al 20%",
+          "consumo": "",
+          "note": "Primer in resina epossidica fillerizzata."
+        },
+        {
+          "step": "2",
+          "ruolo": "corpo autolivellante colorato",
+          "prodotto": "Epoxite RA200",
+          "additivi": "+ PROQUARZ 06",
+          "attrezzo": "spatola",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Resina epossidica autolivellante colorata applicata a spatola."
+        },
+        {
+          "step": "3-4",
+          "ruolo": "finitura trasparente antigraffio (2 mani incrociate)",
+          "prodotto": "Poliutek VF300 / VF200 / VF100",
+          "additivi": "",
+          "attrezzo": "rullo o spatola di plastica",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Trasparente, gradi di brillantezza VF300 lucido / VF200 satinato / VF100 opaco. Due mani incrociate di vernice trasparente antigraffio acriluretanica."
+        }
+      ],
+      "spessore": "0.8-1.0 mm",
+      "n_mani": "3",
+      "tipo_sottofondo": "Usurato",
+      "tempi_applicazione": "4 gg",
+      "calpestabile_dopo": "2 gg",
+      "rating": [
+        {
+          "etichetta": "Resistenza abrasione",
+          "valore": 5
+        },
+        {
+          "etichetta": "Resistenza traffico",
+          "valore": 4
+        },
+        {
+          "etichetta": "Resistenza chimica",
+          "valore": 5
+        }
+      ],
+      "dati_tecnici": [
+        {
+          "etichetta": "Nome sistema (EN)",
+          "valore": "Multilayer trowelled mortar system for industrial flooring 0.8–1.0 mm thick"
+        },
+        {
+          "etichetta": "Prerequisito",
+          "valore": "Preparazione del supporto / Surface preparation (pagg. 28-31 del catalogo)"
+        }
+      ],
+      "certificazioni": [
+        {
+          "nome": "HACCP Certified"
+        }
+      ]
+    }
+  },
+  {
+    "titolo": "Vetrificante con primer antiumidità",
+    "excerpt": "Sistema resinoso con primer antiumidità, colorato, in grado di formare un film continuo con spessori a secco fino a 0,3 mm.",
+    "linea": [
+      "Prosurfaces"
+    ],
+    "problemi": [
+      "Umidità nel supporto",
+      "Vasche e serbatoi per alimenti o acqua potabile da rivestire"
+    ],
+    "destinazioni": [
+      "Serbatoi e vasche per prodotti alimentari",
+      "Serbatoi per acqua potabile",
+      "Cantine e industrie alimentari (olio, vino)",
+      "Pavimenti industriali nuovi o verniciati"
+    ],
+    "campi": {
+      "codice": "PS.05",
+      "nome_tecnico": "Sistema riportato epossidico vetrificante a strato sottile con primer pigmentato antiumidità",
+      "descrizione": "<p>Sistema resinoso con primer antiumidità, colorato, in grado di formare un film continuo con spessori a secco fino a 0,3 mm. Conferisce al supporto caratteristiche di alte resistenze chimiche ad olio, vino, soluzioni acide, ecc. e di impermeabilizzazione di serbatoi destinati al contenimento di prodotti alimentari e acqua potabile.</p>",
+      "problema_titolo": "Umidità e contatto con alimenti o acqua potabile",
+      "problema_testo": "Supporti con problemi di umidità che devono contenere/entrare in contatto con alimenti, acqua potabile o liquidi chimici (olio, vino, soluzioni acide): serve barriera antiumidità + film vetrificante atossico.",
+      "soluzione_testo": "<p>Sistema resinoso con primer antiumidità, colorato, in grado di formare un film continuo con spessori a secco fino a 0,3 mm. Conferisce al supporto caratteristiche di alte resistenze chimiche ad olio, vino, soluzioni acide, ecc. e di impermeabilizzazione di serbatoi destinati al contenimento di prodotti alimentari e acqua potabile.</p>",
+      "vantaggi": [
+        {
+          "testo": "Primer pigmentato antiumidità epossi-cementizio"
+        },
+        {
+          "testo": "Alte resistenze chimiche (olio, vino, soluzioni acide)"
+        },
+        {
+          "testo": "Impermeabilizzazione di serbatoi"
+        },
+        {
+          "testo": "Idoneo al contatto alimentare e con acqua potabile"
+        },
+        {
+          "testo": "Film vetrificante lucido"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "primer pigmentato antiumidità",
+          "prodotto": "Epoxite PA100",
+          "additivi": "",
+          "attrezzo": "rullo pelo medio",
+          "diluizione": "acqua al 20%",
+          "consumo": "",
+          "note": "Primer epossi-cementizio antiumidità pigmentato bianco."
+        },
+        {
+          "step": "2",
+          "ruolo": "corpo (prima mano colorata)",
+          "prodotto": "Vitrox RA500",
+          "additivi": "",
+          "attrezzo": "rullo pelo medio",
+          "diluizione": "non diluito",
+          "consumo": "",
+          "note": "Variante colorata (RA500-C). Prima mano di resina epossidica alto solido colorata."
+        },
+        {
+          "step": "3",
+          "ruolo": "finitura (seconda mano colorata)",
+          "prodotto": "Vitrox RA500",
+          "additivi": "",
+          "attrezzo": "rullo pelo medio",
+          "diluizione": "fino a max 10% con diluente DAE",
+          "consumo": "",
+          "note": "Variante colorata (RA500-C). Seconda mano, diluibile fino al 10% con PRODILUENTE DAE."
+        }
+      ],
+      "spessore": "300 micron",
+      "n_mani": "3",
+      "tipo_sottofondo": "Nuovo o verniciato",
+      "tempi_applicazione": "4 gg",
+      "calpestabile_dopo": "2 gg",
+      "rating": [
+        {
+          "etichetta": "Resistenza abrasione",
+          "valore": 5
+        },
+        {
+          "etichetta": "Resistenza traffico",
+          "valore": 3
+        },
+        {
+          "etichetta": "Resistenza chimica",
+          "valore": 5
+        }
+      ],
+      "dati_tecnici": [
+        {
+          "etichetta": "Nome sistema (EN)",
+          "valore": "Epoxy vitrifying thin-layer coating system with pigmented anti-moisture primer"
+        },
+        {
+          "etichetta": "Prerequisito",
+          "valore": "Preparazione del supporto / Surface preparation (pagg. 28-31 del catalogo)"
+        }
+      ],
+      "certificazioni": [
+        {
+          "nome": "Reg. (CE) 1935/2004 – Conforme al contatto alimentare"
+        },
+        {
+          "nome": "D.M. 174/2004 – Conforme al contatto con acqua potabile"
+        }
+      ]
+    }
+  },
+  {
+    "titolo": "Multistrato epossi-uretanico 3 mm",
+    "excerpt": "Sistema resinoso multistrato, colorato, in grado di formare un film continuo e planare con finitura antigraffio e spessori a secco fino a 3 mm.",
+    "linea": [
+      "Prosurfaces"
+    ],
+    "problemi": [
+      "Pavimento usurato con traffico intenso di carrelli",
+      "Supporto ammalorato da ricostruire senza demolire"
+    ],
+    "destinazioni": [
+      "Pavimentazioni industriali usurate ad alto traffico",
+      "Ambienti con esigenze HACCP"
+    ],
+    "campi": {
+      "codice": "PS.06",
+      "nome_tecnico": "Sistema multistrato epossi-uretanico traspirante di spessore 3 mm",
+      "descrizione": "<p>Sistema resinoso multistrato, colorato, in grado di formare un film continuo e planare con finitura antigraffio e spessori a secco fino a 3 mm. Conferisce al supporto caratteristiche di alta resistenza ai prodotti chimici e facilità di lavaggio e ottima resistenza al traffico di carrelli e mezzi di movimento.</p>",
+      "problema_titolo": "Usura e alto traffico: serve una ricostruzione armata",
+      "problema_testo": "Pavimentazioni usurate/ammalorate sottoposte a traffico intenso di carrelli e mezzi: serve ricostruzione armata (rete) con spessore 2-3 mm, planarità, traspirabilità e finitura antigraffio.",
+      "soluzione_testo": "<p>Sistema resinoso multistrato, colorato, in grado di formare un film continuo e planare con finitura antigraffio e spessori a secco fino a 3 mm. Conferisce al supporto caratteristiche di alta resistenza ai prodotti chimici e facilità di lavaggio e ottima resistenza al traffico di carrelli e mezzi di movimento.</p>",
+      "vantaggi": [
+        {
+          "testo": "Film continuo e planare fino a 3 mm"
+        },
+        {
+          "testo": "Armatura con rete PRONET 100"
+        },
+        {
+          "testo": "Finitura antigraffio"
+        },
+        {
+          "testo": "Alta resistenza ai prodotti chimici"
+        },
+        {
+          "testo": "Facilità di lavaggio"
+        },
+        {
+          "testo": "Ottima resistenza al traffico di carrelli e mezzi di movimento"
+        },
+        {
+          "testo": "Traspirante"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "primer fillerizzato su rete",
+          "prodotto": "Epoxite PR100-T",
+          "additivi": "+ PROQUARZ 04 + PRONET 100",
+          "attrezzo": "rullo",
+          "diluizione": "acqua al 20%",
+          "consumo": "",
+          "note": "Primer applicato su rete PRONET 100 precedentemente posizionata sulla superficie."
+        },
+        {
+          "step": "2",
+          "ruolo": "rasatura riempitiva armata + spolvero",
+          "prodotto": "Epoxite PR100-T",
+          "additivi": "+ PROQUARZ 04 (spolvero a rifiuto) + sabbia (carica dell'impasto)",
+          "attrezzo": "spatola",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Rasatura riempitiva della rete PRONET 100 con resina caricata con sabbia; a fresco, spolvero a rifiuto con sabbia PROQUARZ 04."
+        },
+        {
+          "step": "3",
+          "ruolo": "corpo autolivellante (prima mano)",
+          "prodotto": "Epoxite RA200",
+          "additivi": "+ PROQUARZ 04",
+          "attrezzo": "spatola dentata (dente a V da 6 mm)",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Prima mano di resina epossidica autolivellante traspirante colorata."
+        },
+        {
+          "step": "4",
+          "ruolo": "corpo autolivellante (seconda mano)",
+          "prodotto": "Epoxite RA200",
+          "additivi": "+ PROQUARZ 04",
+          "attrezzo": "spatola liscia",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Seconda mano di autolivellante colorato."
+        },
+        {
+          "step": "5-6",
+          "ruolo": "finitura trasparente antigraffio (2 mani incrociate)",
+          "prodotto": "Poliutek VF300 / VF200 / VF100",
+          "additivi": "",
+          "attrezzo": "rullo o spatola di plastica",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Trasparente, gradi di brillantezza VF300 lucido / VF200 satinato / VF100 opaco. Due mani incrociate di vernice trasparente antigraffio acriluretanica."
+        }
+      ],
+      "spessore": "2-3 mm",
+      "n_mani": "6",
+      "tipo_sottofondo": "Usurato",
+      "tempi_applicazione": "7 gg",
+      "calpestabile_dopo": "2 gg",
+      "rating": [
+        {
+          "etichetta": "Resistenza abrasione",
+          "valore": 4
+        },
+        {
+          "etichetta": "Resistenza traffico",
+          "valore": 5
+        },
+        {
+          "etichetta": "Resistenza chimica",
+          "valore": 4
+        }
+      ],
+      "dati_tecnici": [
+        {
+          "etichetta": "Nome sistema (EN)",
+          "valore": "Breathable epoxy-urethane multilayer system 3 mm thick"
+        },
+        {
+          "etichetta": "Prerequisito",
+          "valore": "Preparazione del supporto / Surface preparation (pagg. 28-31 del catalogo)"
+        }
+      ],
+      "certificazioni": [
+        {
+          "nome": "HACCP Certified"
+        }
+      ]
+    }
+  },
+  {
+    "titolo": "Multistrato epossi-uretanico 1 mm",
+    "excerpt": "Sistema resinoso multistrato, colorato, in grado di formare un film continuo e planare con finitura antigraffio e spessori a secco fino a 1 mm.",
+    "linea": [
+      "Prosurfaces"
+    ],
+    "problemi": [
+      "Pavimento nuovo con traffico di carrelli e mezzi"
+    ],
+    "destinazioni": [
+      "Pavimentazioni industriali nuove",
+      "Ambienti con esigenze HACCP"
+    ],
+    "campi": {
+      "codice": "PS.07",
+      "nome_tecnico": "Sistema multistrato epossi-uretanico traspirante di spessore fino a 1,0 mm",
+      "descrizione": "<p>Sistema resinoso multistrato, colorato, in grado di formare un film continuo e planare con finitura antigraffio e spessori a secco fino a 1 mm. Conferisce al supporto caratteristiche di alta resistenza ai prodotti chimici, facilità di lavaggio e ottima resistenza al traffico di carrelli e mezzi di movimento.</p>",
+      "problema_titolo": "Pavimento nuovo sottoposto a traffico di carrelli",
+      "problema_testo": "Pavimentazioni nuove sottoposte a traffico di carrelli e mezzi: serve rivestimento multistrato traspirante planare da ~1 mm con finitura antigraffio (variante su supporto nuovo del PS.06).",
+      "soluzione_testo": "<p>Sistema resinoso multistrato, colorato, in grado di formare un film continuo e planare con finitura antigraffio e spessori a secco fino a 1 mm. Conferisce al supporto caratteristiche di alta resistenza ai prodotti chimici, facilità di lavaggio e ottima resistenza al traffico di carrelli e mezzi di movimento.</p>",
+      "vantaggi": [
+        {
+          "testo": "Film continuo e planare fino a 1 mm"
+        },
+        {
+          "testo": "Finitura antigraffio"
+        },
+        {
+          "testo": "Alta resistenza ai prodotti chimici"
+        },
+        {
+          "testo": "Facilità di lavaggio"
+        },
+        {
+          "testo": "Ottima resistenza al traffico di carrelli e mezzi di movimento"
+        },
+        {
+          "testo": "Traspirante"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "primer fillerizzato",
+          "prodotto": "Epoxite PR100-T",
+          "additivi": "+ PROQUARZ 04",
+          "attrezzo": "rullo",
+          "diluizione": "acqua al 15%",
+          "consumo": "",
+          "note": "Primer in resina epossidica fillerizzata."
+        },
+        {
+          "step": "2",
+          "ruolo": "corpo autolivellante (prima mano)",
+          "prodotto": "Epoxite RA200",
+          "additivi": "+ PROQUARZ 04",
+          "attrezzo": "spatola",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Prima mano di autolivellante traspirante colorato."
+        },
+        {
+          "step": "3",
+          "ruolo": "corpo autolivellante (seconda mano)",
+          "prodotto": "Epoxite RA200",
+          "additivi": "+ PROQUARZ 04",
+          "attrezzo": "spatola",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Seconda mano di autolivellante colorato."
+        },
+        {
+          "step": "4-5",
+          "ruolo": "finitura trasparente antigraffio (2 mani incrociate)",
+          "prodotto": "Poliutek VF300 / VF200 / VF100",
+          "additivi": "",
+          "attrezzo": "rullo o spatola di plastica",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Trasparente, gradi di brillantezza VF300 lucido / VF200 satinato / VF100 opaco. Due mani incrociate di vernice trasparente antigraffio acriluretanica."
+        }
+      ],
+      "spessore": "0,8-1,0 mm",
+      "n_mani": "6",
+      "tipo_sottofondo": "Nuovo",
+      "tempi_applicazione": "5 gg",
+      "calpestabile_dopo": "2 gg",
+      "rating": [
+        {
+          "etichetta": "Resistenza abrasione",
+          "valore": 4
+        },
+        {
+          "etichetta": "Resistenza traffico",
+          "valore": 4
+        },
+        {
+          "etichetta": "Resistenza chimica",
+          "valore": 4
+        }
+      ],
+      "dati_tecnici": [
+        {
+          "etichetta": "Nome sistema (EN)",
+          "valore": "Breathable epoxy-urethane multilayer system up to 1.0 mm thick"
+        },
+        {
+          "etichetta": "Prerequisito",
+          "valore": "Preparazione del supporto / Surface preparation (pagg. 28-31 del catalogo)"
+        }
+      ],
+      "certificazioni": [
+        {
+          "nome": "HACCP Certified"
+        }
+      ]
+    }
+  },
+  {
+    "titolo": "Multistrato con barriera al vapore",
+    "excerpt": "Sistema resinoso multistrato realizzato con malta livellante epossi-cementizia che permette il ripristino e la rasatura con finitura liscia dei supporti orizzontali quando è necessario realizzare una barriera all'umidità di spinta negativa e positiva prima della verniciatura con resina epossidica traspirante.",
+    "linea": [
+      "Prosurfaces"
+    ],
+    "problemi": [
+      "Umidità di risalita nel pavimento",
+      "Pavimento usurato da livellare"
+    ],
+    "destinazioni": [
+      "Supporti orizzontali usurati con problemi di umidità",
+      "Ambienti con esigenze HACCP"
+    ],
+    "campi": {
+      "codice": "PS.08",
+      "nome_tecnico": "Sistema multistrato traspirante con barriera al vapore di spessore 2-4 mm",
+      "descrizione": "<p>Sistema resinoso multistrato realizzato con malta livellante epossi-cementizia che permette il ripristino e la rasatura con finitura liscia dei supporti orizzontali quando è necessario realizzare una barriera all'umidità di spinta negativa e positiva prima della verniciatura con resina epossidica traspirante.</p>",
+      "problema_titolo": "Umidità di spinta sotto il pavimento",
+      "problema_testo": "Supporti orizzontali usurati con umidità di spinta negativa e positiva: serve barriera all'umidità + livellamento prima della verniciatura traspirante.",
+      "soluzione_testo": "<p>Sistema resinoso multistrato realizzato con malta livellante epossi-cementizia che permette il ripristino e la rasatura con finitura liscia dei supporti orizzontali quando è necessario realizzare una barriera all'umidità di spinta negativa e positiva prima della verniciatura con resina epossidica traspirante.</p>",
+      "vantaggi": [
+        {
+          "testo": "Barriera all'umidità di spinta negativa e positiva"
+        },
+        {
+          "testo": "Ripristino e rasatura con finitura liscia"
+        },
+        {
+          "testo": "Verniciatura finale traspirante"
+        },
+        {
+          "testo": "Spessore 2-4 mm senza demolizione"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "primer fillerizzato",
+          "prodotto": "Epoxite PR100-T",
+          "additivi": "+ PROQUARZ 04",
+          "attrezzo": "rullo",
+          "diluizione": "acqua al 20%",
+          "consumo": "",
+          "note": "Primer in resina epossidica fillerizzata."
+        },
+        {
+          "step": "2",
+          "ruolo": "rasatura/barriera al vapore",
+          "prodotto": "Epoxite Live",
+          "additivi": "",
+          "attrezzo": "spatola dentata o racla dentata + rullo frangibolle",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Rasatura con malta epossi-cementizia; rullo frangibolle per eliminare le bolle d'aria."
+        },
+        {
+          "step": "3-4",
+          "ruolo": "finitura colorata traspirante (2 mani)",
+          "prodotto": "Epoxite VF300 / VF200",
+          "additivi": "",
+          "attrezzo": "rullo pelo medio",
+          "diluizione": "acqua al 10%",
+          "consumo": "",
+          "note": "Variante colorata (-C). Doppio strato di resina epossidica colorata EPOXITE VF200/300."
+        }
+      ],
+      "spessore": "3-4 mm (titolo sistema: 2-4 mm)",
+      "n_mani": "6",
+      "tipo_sottofondo": "Usurato",
+      "tempi_applicazione": "7 gg",
+      "calpestabile_dopo": "2 gg",
+      "rating": [
+        {
+          "etichetta": "Resistenza abrasione",
+          "valore": 4
+        },
+        {
+          "etichetta": "Resistenza traffico",
+          "valore": 5
+        },
+        {
+          "etichetta": "Resistenza chimica",
+          "valore": 4
+        }
+      ],
+      "dati_tecnici": [
+        {
+          "etichetta": "Nome sistema (EN)",
+          "valore": "Breathable multilayer system with vapour barrier 2-4 mm thick"
+        },
+        {
+          "etichetta": "Prerequisito",
+          "valore": "Preparazione del supporto / Surface preparation (pagg. 28-31 del catalogo)"
+        }
+      ],
+      "certificazioni": [
+        {
+          "nome": "HACCP Certified"
+        }
+      ]
+    }
+  },
+  {
+    "titolo": "Multistrato antiacido con barriera al vapore",
+    "excerpt": "Sistema resinoso multistrato antiacido realizzato con malta epossi-cementizia livellante tricomponente che permette di ottenere in pochi millimetri una barriera al vapore di controspinta e una resina epossidica ciclo-alifatica vetrificante ad alta resistenza ai liquidi chimici aggressivi (soluzioni acide o basiche).",
+    "linea": [
+      "Prosurfaces"
+    ],
+    "problemi": [
+      "Umidità di controspinta",
+      "Acidi e basi che aggrediscono il pavimento"
+    ],
+    "destinazioni": [
+      "Pavimentazioni industriali con aggressione chimica (acidi/basi)",
+      "Industria alimentare",
+      "Vasche/serbatoi per acqua potabile"
+    ],
+    "campi": {
+      "codice": "PS.09",
+      "nome_tecnico": "Sistema multistrato antiacido con barriera al vapore livellante di spessore 2–4 mm",
+      "descrizione": "<p>Sistema resinoso multistrato antiacido realizzato con malta epossi-cementizia livellante tricomponente che permette di ottenere in pochi millimetri una barriera al vapore di controspinta e una resina epossidica ciclo-alifatica vetrificante ad alta resistenza ai liquidi chimici aggressivi (soluzioni acide o basiche).</p>",
+      "problema_titolo": "Umidità più aggressione chimica acida o basica",
+      "problema_testo": "Supporti usurati con umidità di controspinta esposti a liquidi chimici aggressivi (soluzioni acide o basiche): serve barriera al vapore livellante + vetrificazione antiacida idonea al contatto alimentare.",
+      "soluzione_testo": "<p>Sistema resinoso multistrato antiacido realizzato con malta epossi-cementizia livellante tricomponente che permette di ottenere in pochi millimetri una barriera al vapore di controspinta e una resina epossidica ciclo-alifatica vetrificante ad alta resistenza ai liquidi chimici aggressivi (soluzioni acide o basiche).</p>",
+      "vantaggi": [
+        {
+          "testo": "Antiacido: alta resistenza ai liquidi chimici aggressivi acidi o basici"
+        },
+        {
+          "testo": "Barriera al vapore di controspinta in pochi millimetri"
+        },
+        {
+          "testo": "Resina ciclo-alifatica vetrificante a basso ingiallimento"
+        },
+        {
+          "testo": "Idoneo al contatto alimentare e con acqua potabile"
+        },
+        {
+          "testo": "Massime resistenze (5/5 su abrasione, traffico, chimica)"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "primer",
+          "prodotto": "Epoxite PF300-T",
+          "additivi": "",
+          "attrezzo": "rullo",
+          "diluizione": "acqua al 50%",
+          "consumo": "",
+          "note": "Primer epossidico trasparente."
+        },
+        {
+          "step": "2",
+          "ruolo": "barriera al vapore livellante (prima rasatura)",
+          "prodotto": "Epoxite 3-Block",
+          "additivi": "+ PROQUARZ 06",
+          "attrezzo": "spatola liscia",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Prima rasatura con malta epossi-cementizia livellante; 12 ore di asciugatura prima della seconda."
+        },
+        {
+          "step": "3",
+          "ruolo": "barriera al vapore livellante (seconda rasatura)",
+          "prodotto": "Epoxite 3-Block",
+          "additivi": "+ PROQUARZ 04",
+          "attrezzo": "spatola liscia",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Seconda rasatura, intervallata di 12 ore dalla prima."
+        },
+        {
+          "step": "4",
+          "ruolo": "primer di consolidamento",
+          "prodotto": "Epoxite PF300-T",
+          "additivi": "",
+          "attrezzo": "rullo",
+          "diluizione": "acqua al 50%",
+          "consumo": "",
+          "note": "Primer di consolidamento sulla rasatura."
+        },
+        {
+          "step": "5-6",
+          "ruolo": "finitura vetrificante colorata (2 mani)",
+          "prodotto": "Vitrox RA500",
+          "additivi": "",
+          "attrezzo": "rullo o spatola",
+          "diluizione": "fino a max 10% con diluente DAE",
+          "consumo": "",
+          "note": "Variante colorata (RA500-C). Doppio strato di resina epossidica colorata VITROX RA500-C."
+        }
+      ],
+      "spessore": "2-4 mm",
+      "n_mani": "5-6",
+      "tipo_sottofondo": "Usurato",
+      "tempi_applicazione": "4-5 gg",
+      "calpestabile_dopo": "2 gg",
+      "rating": [
+        {
+          "etichetta": "Resistenza abrasione",
+          "valore": 5
+        },
+        {
+          "etichetta": "Resistenza traffico",
+          "valore": 5
+        },
+        {
+          "etichetta": "Resistenza chimica",
+          "valore": 5
+        }
+      ],
+      "dati_tecnici": [
+        {
+          "etichetta": "Nome sistema (EN)",
+          "valore": "Acid-resistant multilayer system with self-leveling vapour barrier 2–4 mm thick"
+        },
+        {
+          "etichetta": "Prerequisito",
+          "valore": "Preparazione del supporto / Surface preparation (pagg. 28-31 del catalogo)"
+        }
+      ],
+      "certificazioni": [
+        {
+          "nome": "Reg. (CE) 1935/2004 – Conforme al contatto alimentare"
+        },
+        {
+          "nome": "D.M. 174/2004 – Conforme al contatto con acqua potabile"
+        }
+      ]
+    }
+  },
+  {
+    "titolo": "Malta spatolata 6-10 mm",
+    "excerpt": "Sistema resinoso multistrato a «malta spatolata» specifico per pavimentazioni industriali ad alta resistenza, impermeabile, con buone resistenze chimiche (soluzioni acide o basiche).",
+    "linea": [
+      "Prosurfaces"
+    ],
+    "problemi": [
+      "Pavimento in degrado avanzato",
+      "Supporto umido",
+      "Ricostruzione senza demolizione"
+    ],
+    "destinazioni": [
+      "Ristrutturazione di vecchie pavimentazioni industriali degradate",
+      "Pavimentazioni industriali ad alta resistenza",
+      "Supporti usurati e umidi",
+      "Industria alimentare"
+    ],
+    "campi": {
+      "codice": "PS.10",
+      "nome_tecnico": "Sistema epossidico a malta spatolata per pavimentazioni industriali da 6 a 10 mm di spessore e finitura antiscivolo",
+      "descrizione": "<p>Sistema resinoso multistrato a «malta spatolata» specifico per pavimentazioni industriali ad alta resistenza, impermeabile, con buone resistenze chimiche (soluzioni acide o basiche). Grazie allo spessore di 0,6 - 1,2 cm, è la soluzione ideale per ricoprire e ristrutturare vecchie pavimentazioni in fase di degrado anche avanzato.</p>",
+      "problema_titolo": "Degrado avanzato, anche su supporto umido",
+      "problema_testo": "Vecchie pavimentazioni in degrado anche avanzato, anche umide: serve ricostruzione ad alto spessore (6-10 mm) impermeabile, antiscivolo, ad altissima resistenza meccanica e chimica, senza demolizione.",
+      "soluzione_testo": "<p>Sistema resinoso multistrato a «malta spatolata» specifico per pavimentazioni industriali ad alta resistenza, impermeabile, con buone resistenze chimiche (soluzioni acide o basiche). Grazie allo spessore di 0,6 - 1,2 cm, è la soluzione ideale per ricoprire e ristrutturare vecchie pavimentazioni in fase di degrado anche avanzato.</p>",
+      "vantaggi": [
+        {
+          "testo": "Alto spessore 6-10 mm (0,6-1,2 cm)"
+        },
+        {
+          "testo": "Impermeabile"
+        },
+        {
+          "testo": "Buone resistenze chimiche (soluzioni acide o basiche)"
+        },
+        {
+          "testo": "Finitura antiscivolo"
+        },
+        {
+          "testo": "Ideale su degrado avanzato, anche su supporto umido"
+        },
+        {
+          "testo": "Massime resistenze (5/5 su abrasione, traffico, chimica)"
+        },
+        {
+          "testo": "Idoneo al contatto alimentare e con acqua potabile"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "primer",
+          "prodotto": "Epoxite PF300-T",
+          "additivi": "",
+          "attrezzo": "rullo",
+          "diluizione": "acqua al 50%",
+          "consumo": "",
+          "note": "Primer epossidico trasparente."
+        },
+        {
+          "step": "2",
+          "ruolo": "massetto epossidico",
+          "prodotto": "Epoxite Max",
+          "additivi": "",
+          "attrezzo": "guide e staggia di acciaio, poi spatola metallica o elicottero industriale",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Massetto epossidico tricomponente nello spessore necessario (0,6–1,0 cm), costipato e frattazzato. Resa da scheda: 18–20 kg/m² per cm di spessore."
+        },
+        {
+          "step": "3",
+          "ruolo": "rasatura colorata (prima)",
+          "prodotto": "Vitrox RA500",
+          "additivi": "+ PROQUARZ 06",
+          "attrezzo": "spatola liscia",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Variante colorata (RA500-C). Prima rasatura del massetto con resina epossidica colorata."
+        },
+        {
+          "step": "4",
+          "ruolo": "rasatura colorata (seconda)",
+          "prodotto": "Vitrox RA500",
+          "additivi": "+ PROQUARZ 04",
+          "attrezzo": "spatola, rullo pelo medio",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Variante colorata (RA500-C). Seconda rasatura."
+        },
+        {
+          "step": "5",
+          "ruolo": "finitura colorata + rullatura",
+          "prodotto": "Vitrox RA500",
+          "additivi": "",
+          "attrezzo": "spatola + rullo pelo medio (a fresco)",
+          "diluizione": "fino a max 10% con diluente DAE",
+          "consumo": "",
+          "note": "Variante colorata (RA500-C). Strato finale a spatola; dopo l'applicazione, rullatura del prodotto ancora fresco con rullo a pelo medio."
+        }
+      ],
+      "spessore": "6-10 mm * (asterisco in tabella; la voce di capitolato indica 0,6-1,2 cm)",
+      "n_mani": "4",
+      "tipo_sottofondo": "Usurato, umido",
+      "tempi_applicazione": "5 gg",
+      "calpestabile_dopo": "2 gg",
+      "rating": [
+        {
+          "etichetta": "Resistenza abrasione",
+          "valore": 5
+        },
+        {
+          "etichetta": "Resistenza traffico",
+          "valore": 5
+        },
+        {
+          "etichetta": "Resistenza chimica",
+          "valore": 5
+        }
+      ],
+      "dati_tecnici": [
+        {
+          "etichetta": "Nome sistema (EN)",
+          "valore": "Trowelled epoxy mortar system for industrial flooring 6–10 mm thick with non-slip finish"
+        },
+        {
+          "etichetta": "Prerequisito",
+          "valore": "Preparazione del supporto / Surface preparation (pagg. 28-31 del catalogo)"
+        }
+      ],
+      "certificazioni": [
+        {
+          "nome": "Reg. (CE) 1935/2004 – Conforme al contatto alimentare"
+        },
+        {
+          "nome": "D.M. 174/2004 – Conforme al contatto con acqua potabile"
+        }
+      ]
+    }
+  },
+  {
+    "titolo": "Sistema Flakes",
+    "excerpt": "Sistema di rivestimento impermeabile, resistente ai raggi UV e antiscivolo, perfetto per pavimentazioni di elevato valore estetico da realizzarsi in ambienti interni ed esterni ad effetto decorativo multicolor realizzato con speciali particelle colorate Color Flakes.",
+    "linea": [
+      "Prosurfaces"
+    ],
+    "problemi": [
+      "Pavimento da rendere decorativo e resistente",
+      "Esterno con gelo e ristagno d'acqua"
+    ],
+    "destinazioni": [
+      "Pavimentazioni decorative interne ed esterne",
+      "Massetti cementizi o industriali",
+      "Aree con ristagno d'acqua e calpestio frequente",
+      "Ambienti esposti a temperature sotto zero"
+    ],
+    "campi": {
+      "codice": "PS.11",
+      "nome_tecnico": "Sistema Flakes – Sistema epossi-uretanico decorativo impermeabile ad effetto multicolore",
+      "descrizione": "<p>Sistema di rivestimento impermeabile, resistente ai raggi UV e antiscivolo, perfetto per pavimentazioni di elevato valore estetico da realizzarsi in ambienti interni ed esterni ad effetto decorativo multicolor realizzato con speciali particelle colorate Color Flakes. Ideale per rivestire massetti cementizi o industriali in tempi brevi. Il sistema conferisce resistenza a traffico medio-alto ed eccellenti prestazioni quali resistenza a ristagno d'acqua, calpestio frequente, resistenza a temperature sotto zero, alte resistenze chimiche a sostanze macchianti.</p>",
+      "problema_titolo": "Estetica e prestazioni in un solo sistema",
+      "problema_testo": "Pavimentazioni che devono unire elevato valore estetico (effetto decorativo multicolore) e prestazioni tecniche (impermeabilità, UV, antiscivolo, gelo), in interno ed esterno, con tempi di posa brevi.",
+      "soluzione_testo": "<p>Sistema di rivestimento impermeabile, resistente ai raggi UV e antiscivolo, perfetto per pavimentazioni di elevato valore estetico da realizzarsi in ambienti interni ed esterni ad effetto decorativo multicolor realizzato con speciali particelle colorate Color Flakes. Ideale per rivestire massetti cementizi o industriali in tempi brevi. Il sistema conferisce resistenza a traffico medio-alto ed eccellenti prestazioni quali resistenza a ristagno d'acqua, calpestio frequente, resistenza a temperature sotto zero, alte resistenze chimiche a sostanze macchianti.</p>",
+      "vantaggi": [
+        {
+          "testo": "Effetto decorativo multicolor con Color Flakes (9 effetti disponibili)"
+        },
+        {
+          "testo": "Impermeabile"
+        },
+        {
+          "testo": "Resistente ai raggi UV"
+        },
+        {
+          "testo": "Antiscivolo"
+        },
+        {
+          "testo": "Resistenza a ristagno d'acqua e calpestio frequente"
+        },
+        {
+          "testo": "Resistente a temperature sotto zero"
+        },
+        {
+          "testo": "Alte resistenze chimiche a sostanze macchianti"
+        },
+        {
+          "testo": "Posa in tempi brevi"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "primer",
+          "prodotto": "Vitrox RA500",
+          "additivi": "",
+          "attrezzo": "rullo pelo medio",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Variante trasparente (RA500-T). Primer epossidico trasparente."
+        },
+        {
+          "step": "2",
+          "ruolo": "corpo autolivellante colorato + semina flakes",
+          "prodotto": "Vitrox RA500",
+          "additivi": "+ COLOR FLAKES",
+          "attrezzo": "racla liscia o spatola",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Variante colorata (RA500-C). Mano di resina autolivellante colorata distribuita omogeneamente; a prodotto fresco, semina a spolvero leggero dei COLOR FLAKES scelti."
+        },
+        {
+          "step": "3",
+          "ruolo": "finitura trasparente (2 mani)",
+          "prodotto": "Purtop VF300 / VF200",
+          "additivi": "",
+          "attrezzo": "spatola di plastica (1a mano), pennellessa o rullo specifico (2a mano)",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Variante trasparente (-T). Aspirare/recuperare i flakes in eccesso non incollati. Prima mano a spatola di plastica per impregnare completamente i chips; a film asciutto (minimo 12 ore) seconda mano a pennellessa o rullo."
+        }
+      ],
+      "spessore": "500 micron",
+      "n_mani": "3/4",
+      "tipo_sottofondo": "Nuovo o verniciato",
+      "tempi_applicazione": "4 gg",
+      "calpestabile_dopo": "2 gg",
+      "rating": [
+        {
+          "etichetta": "Resistenza abrasione",
+          "valore": 5
+        },
+        {
+          "etichetta": "Resistenza traffico",
+          "valore": 5
+        },
+        {
+          "etichetta": "Resistenza chimica",
+          "valore": 5
+        }
+      ],
+      "dati_tecnici": [
+        {
+          "etichetta": "Nome sistema (EN)",
+          "valore": "Waterproof decorative epoxy-urethane system with multicolour effect"
+        },
+        {
+          "etichetta": "Effetti Flakes disponibili",
+          "valore": "Mix Grigio scuro, Tortora, Grigio scuro, Mix Carrara, Mix Grigio sabbia, Grigio chiaro, Mix Piscina, Sabbia, Bianco"
+        },
+        {
+          "etichetta": "Nota codice",
+          "valore": "Nel catalogo è denominato 'PS.11 / Sistema Flakes' (non 'Sistema 11')"
+        },
+        {
+          "etichetta": "Prerequisito",
+          "valore": "Preparazione del supporto / Surface preparation (pagg. 28-31 del catalogo)"
+        }
+      ],
+      "certificazioni": []
+    }
+  },
+  {
+    "titolo": "Purain Trasparente",
+    "excerpt": "Sistema impermeabilizzante trasparente antiscivolo per superfici ceramiche o vetrose",
+    "linea": [
+      "Waterproof"
+    ],
+    "problemi": [
+      "Balcone in ceramica che infiltra",
+      "Impermeabilizzare senza cambiare l'estetica"
+    ],
+    "destinazioni": [
+      "Balconi",
+      "Terrazze",
+      "Verande"
+    ],
+    "campi": {
+      "codice": "WP.01",
+      "nome_tecnico": "Sistema impermeabilizzante trasparente antiscivolo per superfici ceramiche o vetrose",
+      "descrizione": "<p>Sistema impermeabilizzante trasparente antiscivolo per superfici ceramiche o vetrose.</p>",
+      "problema_titolo": "Impermeabilizzare la ceramica senza coprirla",
+      "problema_testo": "Impermeabilizzare balconi, terrazze e verande con pavimentazione in ceramica, vetrocamera o plastica senza demolire e senza coprire l'estetica esistente: serve una membrana trasparente che preservi la bellezza del supporto, applicabile anche su sottofondi umidi o bagnati, con opzione antiscivolo.",
+      "soluzione_testo": "<p>Membrana impermeabilizzante trasparente a base di resina poliuretanica siliconica alifatica: una mano di pulitore ancorante PRIMEXAN e due mani di PURAIN TRASPARENTE, applicabili anche su sottofondi umidi o bagnati, senza rete di armatura né successivo rivestimento. Con il 25% in peso di ADDITIVO ANTISDRUCCIOLO la finitura diventa satinata e antiscivolo (B.C.R.A. ≥ 0,40, DIN 51130 R9).</p>",
+      "vantaggi": [
+        {
+          "testo": "Totalmente trasparente: preserva la vista del supporto ceramico o vetroso"
+        },
+        {
+          "testo": "Elasticità 5/5, adesione 5/5, pedonabilità 5/5"
+        },
+        {
+          "testo": "Applicabile anche su sottofondi umidi o bagnati"
+        },
+        {
+          "testo": "Non richiede rete di armatura né successivo rivestimento"
+        },
+        {
+          "testo": "Con ADDITIVO ANTISDRUCCIOLO: maggiore resistenza al graffio, finitura satinata e classificazione antiscivolo (B.C.R.A. >= 0,40, DIN 51130 R9)"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "Pulitore ancorante",
+          "prodotto": "Primexan",
+          "additivi": "",
+          "attrezzo": "panno assorbente",
+          "diluizione": "",
+          "consumo": "0,050 L/m² in una mano (da scheda prodotto)",
+          "note": "Applicare con panno assorbente una mano di PRIMEXAN per pulire il supporto e aumentarne la forza di aggrappaggio dei successivi strati."
+        },
+        {
+          "step": "2",
+          "ruolo": "Membrana impermeabilizzante trasparente - prima mano",
+          "prodotto": "Purain Trasparente",
+          "additivi": "",
+          "attrezzo": "pennello o rullo",
+          "diluizione": "",
+          "consumo": "0,200-0,300 kg/m² applicato in due mani (da scheda prodotto)",
+          "note": "Prima mano di resina poliuretanica siliconica PURAIN TRASPARENTE."
+        },
+        {
+          "step": "3",
+          "ruolo": "Membrana impermeabilizzante trasparente - seconda mano",
+          "prodotto": "Purain Trasparente",
+          "additivi": "+ ADDITIVO ANTISDRUCCIOLO al 25% in peso (opzionale)",
+          "attrezzo": "pennello o rullo",
+          "diluizione": "",
+          "consumo": "vd. step 2 (due mani totali)",
+          "note": "Seconda mano di PURAIN TRASPARENTE. Per esigenze di maggiore resistenza al graffio, additivare con ADDITIVO ANTISDRUCCIOLO al 25% in peso: incremento della resistenza al graffio superficiale; finitura satinata; DM 236/1989 e D.Lgs. 81/2008 (coefficiente di attrito minimo 0,40 metodo B.C.R.A.); UNI EN 13893; DIN 51130 classificazione R9."
+        }
+      ],
+      "spessore": "",
+      "n_mani": "2",
+      "tipo_sottofondo": "Ceramica, vetrocamera, plastica",
+      "tempi_applicazione": "",
+      "calpestabile_dopo": "",
+      "rating": [
+        {
+          "etichetta": "Elasticità",
+          "valore": 5
+        },
+        {
+          "etichetta": "Adesione",
+          "valore": 5
+        },
+        {
+          "etichetta": "Pedonabilità",
+          "valore": 5
+        }
+      ],
+      "dati_tecnici": [
+        {
+          "etichetta": "Rete di armatura",
+          "valore": "Non necessaria"
+        },
+        {
+          "etichetta": "Da rivestire",
+          "valore": "Non necessario"
+        },
+        {
+          "etichetta": "Coefficiente di attrito (con additivo)",
+          "valore": "≥ 0,40 (metodo B.C.R.A.)"
+        },
+        {
+          "etichetta": "Classificazione scivolosità (con additivo)",
+          "valore": "R9 (DIN 51130)"
+        },
+        {
+          "etichetta": "Applicabilità",
+          "valore": "anche su sottofondi umidi o bagnati"
+        },
+        {
+          "etichetta": "Nome tecnico (EN)",
+          "valore": "Transparent, non-slip waterproofing system for ceramic or glass surfaces"
+        },
+        {
+          "etichetta": "Voce di capitolato",
+          "valore": "Speciale resina liquida elastomerica a base di resina poliuretanica siliconica alifatica, applicabile anche su sottofondi umidi o bagnati."
+        }
+      ],
+      "certificazioni": [
+        {
+          "nome": "DM 236/1989"
+        },
+        {
+          "nome": "D.Lgs. 81/2008 (attrito minimo 0,40 B.C.R.A., con additivo)"
+        },
+        {
+          "nome": "UNI EN 13893 (con additivo)"
+        },
+        {
+          "nome": "DIN 51130 R9 (con additivo)"
+        }
+      ]
+    }
+  },
+  {
+    "titolo": "Purain Color",
+    "excerpt": "Sistema impermeabilizzante pigmentato a COV zero e stagno free realizzato con tecnologia poliuretan-siliconica UV resistente",
+    "linea": [
+      "Waterproof"
+    ],
+    "problemi": [
+      "Terrazzo che infiltra senza demolire",
+      "Sottofondo umido da impermeabilizzare"
+    ],
+    "destinazioni": [
+      "Balconi",
+      "Terrazze",
+      "Verande"
+    ],
+    "campi": {
+      "codice": "WP.02",
+      "nome_tecnico": "Sistema impermeabilizzante pigmentato a COV zero e stagno free realizzato con tecnologia poliuretan-siliconica UV resistente",
+      "descrizione": "<p>Sistema impermeabilizzante pigmentato a COV zero e stagno free realizzato con tecnologia poliuretan-siliconica UV resistente.</p>",
+      "problema_titolo": "Terrazzo che infiltra, senza demolire",
+      "problema_testo": "Impermeabilizzare a vista balconi, terrazze e verande (anche su ceramica, cemento o bitume esistenti) con un rivestimento monocromatico non ingiallente, applicabile su sottofondi umidi/bagnati e a temperature estreme, con rapido fuori pioggia.",
+      "soluzione_testo": "<p>Sistema Purain pigmentato a COV zero e stagno free: PURAIN PRIMER con sigillatura PROJOINT, armatura TFV 225 per superfici oltre 25 m² e due mani di PURAIN COLOR. Impermeabilizza sottofondi umidi o bagnati da 0 a 45 °C, con fuori pioggia più rapido dei poliuretanici igroindurenti di vecchia generazione.</p>",
+      "vantaggi": [
+        {
+          "testo": "Rivestimento impermeabile non ingiallente, monocromatico e ad alta elasticità"
+        },
+        {
+          "testo": "Resistenza ai raggi UV, ristagno d'acqua, calpestio frequente, basse temperature, resistenze chimiche ai solventi"
+        },
+        {
+          "testo": "Impermeabilizza sottofondi umidi o bagnati e in condizioni di temperature estreme (0-45 °C)"
+        },
+        {
+          "testo": "Fuori pioggia più rapido rispetto ai classici impermeabilizzanti poliuretanici igroindurenti di vecchia generazione"
+        },
+        {
+          "testo": "COV zero e stagno free"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "Primer + sigillatura perimetrale",
+          "prodotto": "Purain Primer",
+          "additivi": "+ PROJOINT (sigillante poliuretanico monocomponente)",
+          "attrezzo": "pennellessa o rullo a pelo lungo",
+          "diluizione": "",
+          "consumo": "PURAIN PRIMER 0,100-0,300 kg/m² a seconda dell'assorbimento (da scheda prodotto)",
+          "note": "Applicare una mano uniforme di PURAIN PRIMER su pavimentazione e superfici verticali. Ad asciugatura avvenuta, sigillare le superfici perimetrali e i messicani con PROJOINT (sigillante poliuretanico monocomponente)."
+        },
+        {
+          "step": "2",
+          "ruolo": "Armatura in fibra di vetro",
+          "prodotto": "Purain Primer",
+          "additivi": "+ TFV 225 (tessuto in fibra di vetro 225 g/m²)",
+          "attrezzo": "rullo per resine (pelo 6-8 mm)",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Rivestire perimetrali e messicani con TFV 225 incollandoli con PURAIN PRIMER. Impregnare l'intera superficie del tessuto pretagliato con PURAIN PRIMER, pressando con un rullo scarico per eliminare bolle o pieghe."
+        },
+        {
+          "step": "3-4",
+          "ruolo": "Membrana impermeabilizzante colorata (due mani)",
+          "prodotto": "Purain Color",
+          "additivi": "",
+          "attrezzo": "rullo per resine (pelo 6-8 mm)",
+          "diluizione": "",
+          "consumo": "0,300 kg/m² per mano",
+          "note": "Ad asciugatura del primer (almeno 6 ore a >20 °C), applicare due mani uniformi di PURAIN COLOR a distanza di 6 ore l'una dall'altra."
+        }
+      ],
+      "spessore": "",
+      "n_mani": "2",
+      "tipo_sottofondo": "Ceramica, cemento, bitume",
+      "tempi_applicazione": "",
+      "calpestabile_dopo": "",
+      "rating": [
+        {
+          "etichetta": "Elasticità",
+          "valore": 3
+        },
+        {
+          "etichetta": "Adesione",
+          "valore": 5
+        },
+        {
+          "etichetta": "Pedonabilità",
+          "valore": 5
+        }
+      ],
+      "dati_tecnici": [
+        {
+          "etichetta": "Rete di armatura",
+          "valore": "Tessuto in fibra di vetro per superfici > 25 m²"
+        },
+        {
+          "etichetta": "Da rivestire",
+          "valore": "Non necessario"
+        },
+        {
+          "etichetta": "Temperatura di applicazione",
+          "valore": "0-45 °C"
+        },
+        {
+          "etichetta": "Attesa asciugatura primer",
+          "valore": "almeno 6 ore a >20 °C"
+        },
+        {
+          "etichetta": "Intervallo tra le mani",
+          "valore": "6 ore"
+        },
+        {
+          "etichetta": "Consumo finitura",
+          "valore": "0,300 kg/m² per mano"
+        },
+        {
+          "etichetta": "Nome tecnico (EN)",
+          "valore": "Zero VOC, tin-free pigmented waterproofing system made with UV-resistant polyurethane-silicone technology"
+        },
+        {
+          "etichetta": "Voce di capitolato",
+          "valore": "Rivestimento impermeabile non ingiallente, monocromatico e ad alta elasticità per solai o balconi dalle eccellenti prestazioni (resistenza ai raggi UV, ristagno d'acqua, calpestio frequente, resistente alle basse temperature, resistenze chimiche ai solventi). Il sistema Purain permette di impermeabilizzare sottofondi umidi o bagnati ed in condizioni di temperature estreme (0 °C-45 °C). Purain inoltre ha un più rapido fuori pioggia rispetto ai classici impermeabilizzanti poliuretanici igroindurenti di vecchia generazione."
+        }
+      ],
+      "certificazioni": []
+    }
+  },
+  {
+    "titolo": "Purain Balcony",
+    "excerpt": "Sistema multistrato elastico impermeabile ad alta carrabilità e pedonabilità con finitura monocromatica ad alta resistenza al graffio ed alle intemperie",
+    "linea": [
+      "Waterproof"
+    ],
+    "problemi": [
+      "Balcone da impermeabilizzare e decorare",
+      "Calpestio intenso su terrazzo"
+    ],
+    "destinazioni": [
+      "Tetti",
+      "Balconi",
+      "Terrazze",
+      "Verande",
+      "Camminamenti"
+    ],
+    "campi": {
+      "codice": "WP.03",
+      "nome_tecnico": "Sistema multistrato elastico impermeabile ad alta carrabilità e pedonabilità con finitura monocromatica ad alta resistenza al graffio ed alle intemperie",
+      "descrizione": "<p>Sistema multistrato elastico impermeabile ad alta carrabilità e pedonabilità con finitura monocromatica ad alta resistenza al graffio ed alle intemperie.</p>",
+      "problema_titolo": "Impermeabilizzare e decorare superfici molto calpestate",
+      "problema_testo": "Impermeabilizzare a vista tetti, balconi, terrazzi e camminamenti con un sistema decorativo continuo monocromatico resistente a traffico pedonale intenso, graffi e intemperie, con protezione finale poliuretanica.",
+      "soluzione_testo": "<p>Sistema multistrato elastico: primer PURAIN PRIMER con PROJOINT, armatura in fibra di vetro, due mani di PURAIN COLOR caricato al 50% in peso con PROQUARZ 04 e doppia finitura protettiva poliuretanica PURTOP VF200 ad alta resistenza al graffio e alle intemperie.</p>",
+      "vantaggi": [
+        {
+          "testo": "Sistema multistrato elastico ad alta carrabilità e pedonabilità"
+        },
+        {
+          "testo": "Finitura monocromatica ad alta resistenza al graffio e alle intemperie"
+        },
+        {
+          "testo": "Resistenza ai raggi UV, ristagno d'acqua, calpestio frequente, temperature sotto zero"
+        },
+        {
+          "testo": "Alte resistenze chimiche a sostanze macchianti"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "Primer + sigillatura perimetrale",
+          "prodotto": "Purain Primer",
+          "additivi": "+ PROJOINT",
+          "attrezzo": "pennellessa o rullo a pelo lungo",
+          "diluizione": "",
+          "consumo": "PURAIN PRIMER 0,100-0,300 kg/m² a seconda dell'assorbimento (da scheda prodotto)",
+          "note": "Applicare PURAIN PRIMER omogeneamente su pavimentazione e superfici verticali. Rivestire i perimetrali e i messicani con PROJOINT dopo asciugatura del primer."
+        },
+        {
+          "step": "2",
+          "ruolo": "Armatura in fibra di vetro",
+          "prodotto": "Purain Primer",
+          "additivi": "+ TFV 225 (225 g/m²) / ROTOLO TFV LANAVETRO",
+          "attrezzo": "rullo per resine (pelo testurizzato 6-8 mm)",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Rivestire superfici perimetrali e orizzontali con TFV 225 (225 g/m²) incollandole con PURAIN PRIMER fino a completa impregnazione."
+        },
+        {
+          "step": "3-4",
+          "ruolo": "Membrana colorata caricata con quarzo (due mani)",
+          "prodotto": "Purain Color",
+          "additivi": "+ PROQUARZ 04 (50% in peso)",
+          "attrezzo": "spatola americana",
+          "diluizione": "",
+          "consumo": "PURAIN COLOR 0,700 kg/m² per mano miscelato al 60%, 0,500 kg/m² al 30% con PROQUARZ 04 (da scheda prodotto)",
+          "note": "Applicare due mani di PURAIN COLOR miscelato con il 50% in peso di PROQUARZ mediante spatola americana."
+        },
+        {
+          "step": "5-6",
+          "ruolo": "Finitura protettiva poliuretanica (due mani)",
+          "prodotto": "",
+          "additivi": "PURTOP VF200 (finitura protettiva poliuretanica)",
+          "attrezzo": "pennellessa o rullo specifico",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Applicare due mani di PURTOP VF200 su pavimentazione e superfici verticali interessate al ciclo di impermeabilizzazione."
+        }
+      ],
+      "spessore": "",
+      "n_mani": "2 (membrana) + 2 (finitura)",
+      "tipo_sottofondo": "Ceramica, cemento, bitume",
+      "tempi_applicazione": "",
+      "calpestabile_dopo": "",
+      "rating": [
+        {
+          "etichetta": "Elasticità",
+          "valore": 3
+        },
+        {
+          "etichetta": "Adesione",
+          "valore": 5
+        },
+        {
+          "etichetta": "Pedonabilità",
+          "valore": 5
+        }
+      ],
+      "dati_tecnici": [
+        {
+          "etichetta": "Rete di armatura",
+          "valore": "Tessuto in fibra di vetro per superfici > 25 m²"
+        },
+        {
+          "etichetta": "Da rivestire",
+          "valore": "Non necessario"
+        },
+        {
+          "etichetta": "Nome tecnico (EN)",
+          "valore": "Waterproof elastic multi-layer system for high vehicular and foot traffic, featuring a highly scratch- and weather-resistant solid-color finish"
+        },
+        {
+          "etichetta": "Voce di capitolato",
+          "valore": "Rivestimento impermeabile elastico per esterno applicabile su solai, balconi, terrazzi o camminamenti dove e' richiesto un sistema decorativo continuo monocromatico con resistenza a traffico pedonabile dalle eccellenti prestazioni quali resistenza ai raggi UV, ristagno d'acqua, calpestio frequente, resistente a temperature sotto zero, alte resistenze chimiche a sostanze macchianti."
+        }
+      ],
+      "certificazioni": []
+    }
+  },
+  {
+    "titolo": "Purain Parking",
+    "excerpt": "Sistema multistrato elastico impermeabile ad alta carrabilità e pedonabilità",
+    "linea": [
+      "Waterproof"
+    ],
+    "problemi": [
+      "Rampa o parcheggio da impermeabilizzare",
+      "Superficie carrabile che infiltra"
+    ],
+    "destinazioni": [
+      "Tetti",
+      "Balconi",
+      "Terrazze",
+      "Verande",
+      "Superfici carrabili"
+    ],
+    "campi": {
+      "codice": "WP.04",
+      "nome_tecnico": "Sistema multistrato elastico impermeabile ad alta carrabilità e pedonabilità",
+      "descrizione": "<p>Sistema multistrato elastico impermeabile ad alta carrabilità e pedonabilità.</p>",
+      "problema_titolo": "Rampe e parcheggi che infiltrano",
+      "problema_testo": "Impermeabilizzare superfici soggette a traffico medio-alto (anche carrabile, es. rampe e parcheggi) con un sistema continuo monocromatico antiscivolo grazie alla semina di quarzo, resistente a UV, ristagni e basse temperature.",
+      "soluzione_testo": "<p>Sistema carrabile: PURAIN PRIMER con PROJOINT, due mani di PURAIN COLOR caricato al 50% in peso con PROQUARZ 04 e semina a spolvero a rifiuto di quarzo per la superficie antiscivolo, mano di aggancio e doppia finitura poliuretanica PURTOP VF200/300-C 2K.</p>",
+      "vantaggi": [
+        {
+          "testo": "Alta carrabilità e pedonabilità (traffico medio-alto)"
+        },
+        {
+          "testo": "Rivestimento non ingiallente monocromatico a media elasticità"
+        },
+        {
+          "testo": "Superficie antiscivolo grazie alla semina a rifiuto di quarzo PROQUARZ 04"
+        },
+        {
+          "testo": "Resistenza a raggi UV, ristagno d'acqua, calpestio frequente, basse temperature, resistenze chimiche ai solventi"
+        },
+        {
+          "testo": "Non richiede rete di armatura"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "Primer + sigillatura perimetrale",
+          "prodotto": "Purain Primer",
+          "additivi": "+ PROJOINT",
+          "attrezzo": "pennellessa o rullo specifico",
+          "diluizione": "",
+          "consumo": "PURAIN PRIMER 0,100-0,300 kg/m² a seconda dell'assorbimento (da scheda prodotto)",
+          "note": "Applicare una mano uniforme di PURAIN PRIMER su pavimentazione e superfici verticali da impermeabilizzare. Ad asciugatura avvenuta, rivestire le superfici perimetrali con PROJOINT."
+        },
+        {
+          "step": "2",
+          "ruolo": "Membrana colorata caricata con quarzo - prima mano",
+          "prodotto": "Purain Color",
+          "additivi": "+ PROQUARZ 04 (50% in peso)",
+          "attrezzo": "spatola americana",
+          "diluizione": "",
+          "consumo": "PURAIN COLOR 0,500-0,700 kg/m² per mano miscelato con PROQUARZ (da scheda prodotto)",
+          "note": "Miscelare PURAIN COLOR con il 50% in peso di PROQUARZ con trapano a basso numero di giri fino a impasto omogeneo. Applicare e distribuire uniformemente."
+        },
+        {
+          "step": "3",
+          "ruolo": "Membrana colorata caricata con quarzo - seconda mano + semina antiscivolo",
+          "prodotto": "Purain Color",
+          "additivi": "+ PROQUARZ 04 (50% in peso) + semina a spolvero a rifiuto di PROQUARZ 04",
+          "attrezzo": "spatola americana",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Preparare e applicare un nuovo impasto come al punto precedente. Sul prodotto ancora fresco eseguire la semina a spolvero a rifiuto di PROQUARZ 04."
+        },
+        {
+          "step": "4",
+          "ruolo": "Rimozione quarzo in eccesso + mano di aggancio",
+          "prodotto": "Purain Primer",
+          "additivi": "",
+          "attrezzo": "pennellessa o rullo specifico (spazzolatura/aspirazione per il quarzo)",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Rimuovere l'eccesso di PROQUARZ 04 non adeso mediante spazzolatura o aspirazione. Applicare una mano di PURAIN PRIMER."
+        },
+        {
+          "step": "5-6",
+          "ruolo": "Finitura protettiva poliuretanica (due mani)",
+          "prodotto": "",
+          "additivi": "PURTOP VF200/300-C 2K (finitura protettiva poliuretanica)",
+          "attrezzo": "pennellessa o rullo specifico",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Applicare due mani uniformi di PURTOP VF200 su pavimentazione e superfici verticali trattate."
+        }
+      ],
+      "spessore": "",
+      "n_mani": "2 (membrana) + 2 (finitura)",
+      "tipo_sottofondo": "Ceramica, cemento",
+      "tempi_applicazione": "",
+      "calpestabile_dopo": "",
+      "rating": [
+        {
+          "etichetta": "Elasticità",
+          "valore": 4
+        },
+        {
+          "etichetta": "Adesione",
+          "valore": 5
+        },
+        {
+          "etichetta": "Pedonabilità",
+          "valore": 5
+        }
+      ],
+      "dati_tecnici": [
+        {
+          "etichetta": "Rete di armatura",
+          "valore": "Non necessaria"
+        },
+        {
+          "etichetta": "Da rivestire",
+          "valore": "Non necessario"
+        },
+        {
+          "etichetta": "Nome tecnico (EN)",
+          "valore": "Multi-layer elastic waterproof system with high drive-over and walkability properties"
+        },
+        {
+          "etichetta": "Voce di capitolato",
+          "valore": "Rivestimento impermeabile non ingiallente monocromatico a media elasticità per solai, balconi, terrazzi o camminamenti dove e' necessario un sistema decorativo continuo con resistenza a traffico medio-alto dalle eccellenti prestazioni (resistenza a raggi UV, ristagno d'acqua, calpestio frequente, resistenza alle basse temperature, resistenze chimiche ai solventi)."
+        }
+      ],
+      "certificazioni": []
+    }
+  },
+  {
+    "titolo": "Purain Flakes",
+    "excerpt": "Sistema multistrato elastico impermeabile ad alta pedonabilità con finitura color chips",
+    "linea": [
+      "Waterproof"
+    ],
+    "problemi": [
+      "Terrazzo che infiltra da rinnovare a vista",
+      "Finitura decorativa multicolore su balcone"
+    ],
+    "destinazioni": [
+      "Tetti",
+      "Balconi",
+      "Terrazze",
+      "Verande",
+      "Camminamenti"
+    ],
+    "campi": {
+      "codice": "WP.05",
+      "nome_tecnico": "Sistema multistrato elastico impermeabile ad alta pedonabilità con finitura color chips",
+      "descrizione": "<p>Sistema multistrato elastico impermeabile ad alta pedonabilità con finitura color chips.</p>",
+      "problema_titolo": "Impermeabilizzare con finitura decorativa multicolore",
+      "problema_testo": "Impermeabilizzare a vista balconi, terrazzi e camminamenti con un sistema decorativo continuo multicolore (scaglie/chips colorate), resistente a traffico medio-alto, UV, ristagni d'acqua e temperature sotto zero.",
+      "soluzione_testo": "<p>Sistema decorativo multicolore: PURAIN PRIMER con PROJOINT, due mani di PURAIN COLOR caricato al 50% in peso con PROQUARZ 04, semina a rifiuto di COLOR FLAKES nel colore scelto e doppia finitura trasparente protettiva PURTOP VF200/300-T 2K.</p>",
+      "vantaggi": [
+        {
+          "testo": "Finitura decorativa multicolore con COLOR FLAKES (scaglie colorate)"
+        },
+        {
+          "testo": "Alta pedonabilità (traffico medio-alto)"
+        },
+        {
+          "testo": "Resistenza ai raggi UV, ristagno d'acqua, calpestio frequente, temperature sotto zero"
+        },
+        {
+          "testo": "Alte resistenze chimiche a sostanze macchianti"
+        },
+        {
+          "testo": "Non richiede rete di armatura"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "Primer + sigillatura perimetrale",
+          "prodotto": "Purain Primer",
+          "additivi": "+ PROJOINT",
+          "attrezzo": "pennello o rullo specifico",
+          "diluizione": "",
+          "consumo": "PURAIN PRIMER 0,100-0,300 kg/m² a seconda dell'assorbimento (da scheda prodotto)",
+          "note": "Applicare una mano di PURAIN PRIMER pronto all'uso su pavimentazione e superfici verticali. Dopo l'asciugatura, rivestire le superfici perimetrali con PROJOINT."
+        },
+        {
+          "step": "2-3",
+          "ruolo": "Membrana colorata caricata con quarzo (due mani) + semina scaglie",
+          "prodotto": "Purain Color",
+          "additivi": "+ PROQUARZ 04 (50% in peso) + semina a rifiuto di COLOR FLAKES",
+          "attrezzo": "spatola liscia",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Versare in PURAIN COLOR il 50% in peso di PROQUARZ e mescolare con trapano con asta elicoidale a basso numero di giri. Applicare con spatola liscia e, sulla seconda mano ancora fresca, procedere alla semina a rifiuto di COLOR FLAKES nel colore scelto."
+        },
+        {
+          "step": "4-5",
+          "ruolo": "Rimozione scaglie in eccesso + finitura trasparente protettiva (due mani)",
+          "prodotto": "",
+          "additivi": "PURTOP VF200/300-T 2K (finitura trasparente protettiva)",
+          "attrezzo": "spatola di plastica (prima mano), pennellessa o rullo specifico (seconda mano)",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Aspirare o recuperare con spazzola in setola i COLOR FLAKES in eccesso non incollati. Applicare due mani di PURTOP VF200-T: la prima con spatola di plastica in modo da impregnare completamente i COLOR FLAKES; a film asciutto (attendere minimo 12 ore) applicare la seconda mano a pennellessa o rullo specifico."
+        }
+      ],
+      "spessore": "",
+      "n_mani": "2 (membrana) + 2 (finitura)",
+      "tipo_sottofondo": "Ceramica, cemento",
+      "tempi_applicazione": "",
+      "calpestabile_dopo": "",
+      "rating": [
+        {
+          "etichetta": "Elasticità",
+          "valore": 4
+        },
+        {
+          "etichetta": "Adesione",
+          "valore": 5
+        },
+        {
+          "etichetta": "Pedonabilità",
+          "valore": 5
+        }
+      ],
+      "dati_tecnici": [
+        {
+          "etichetta": "Rete di armatura",
+          "valore": "Non necessaria"
+        },
+        {
+          "etichetta": "Da rivestire",
+          "valore": "Non necessario"
+        },
+        {
+          "etichetta": "Attesa tra le mani di finitura",
+          "valore": "minimo 12 ore"
+        },
+        {
+          "etichetta": "Finiture disponibili",
+          "valore": "Mix Grigio Sabbia, Tortora, Mix Carrara, Bianco, Grigio Scuro, Sabbia, Mix Grigio Scuro, Grigio Chiaro, Mix Piscina"
+        },
+        {
+          "etichetta": "Nome tecnico (EN)",
+          "valore": "Elastic, waterproof, multi-layer system with high walkability, with a coloured chip finish"
+        },
+        {
+          "etichetta": "Voce di capitolato",
+          "valore": "Rivestimento impermeabile elastico per esterno applicabile su solai, balconi, terrazzi o camminamenti dove e' richiesto un sistema decorativo continuo multicolore con resistenza a traffico medio-alto e dalle eccellenti prestazioni quali resistenza ai raggi UV, ristagno d'acqua, calpestio frequente, resistente a temperature sotto zero, alte resistenze chimiche a sostanze macchianti."
+        }
+      ],
+      "certificazioni": []
+    }
+  },
+  {
+    "titolo": "Idrostop",
+    "excerpt": "Sistema impermeabilizzante liquido a base di resina poliuretanica fibro-rinforzata per massetti cementizi o guaine bituminose anche ardesiate",
+    "linea": [
+      "Waterproof"
+    ],
+    "problemi": [
+      "Guaina bituminosa a fine vita",
+      "Terrazzo che infiltra senza demolire"
+    ],
+    "destinazioni": [
+      "Tetti",
+      "Balconi",
+      "Terrazze",
+      "Verande"
+    ],
+    "campi": {
+      "codice": "WP.06",
+      "nome_tecnico": "Sistema impermeabilizzante liquido a base di resina poliuretanica fibro-rinforzata per massetti cementizi o guaine bituminose anche ardesiate",
+      "descrizione": "<p>Sistema impermeabilizzante liquido a base di resina poliuretanica fibro-rinforzata per massetti cementizi o guaine bituminose anche ardesiate.</p>",
+      "problema_titolo": "Vecchia guaina bituminosa a fine vita",
+      "problema_testo": "Impermeabilizzare o rigenerare massetti cementizi e vecchie guaine bituminose (anche ardesiate) senza rimozione, con una membrana liquida poliuretanica fibro-rinforzata ad altissima elasticità (>400%), armabile con tessuto in fibra di vetro.",
+      "soluzione_testo": "<p>Membrana liquida poliuretanica fibrata IDROSTOP (dilatazione oltre il 400%) su GUAINA PRIMER, armata con TFV 225: rigenera massetti cementizi e vecchie guaine bituminose anche ardesiate senza rimozione. Finitura opzionale POLIUTEK VF300-T per pedonabilità e autopulizia alla pioggia (effetto loto).</p>",
+      "vantaggi": [
+        {
+          "testo": "Massima elasticità (5/5, dilatazione oltre il 400% da scheda prodotto)"
+        },
+        {
+          "testo": "Membrana fibrata antilichenica"
+        },
+        {
+          "testo": "Applicabile su ceramica, cemento e bitume (anche guaine ardesiate) senza rimozione"
+        },
+        {
+          "testo": "Finitura opzionale POLIUTEK VF300-T per maggiore pedonabilità e autopulizia alla pioggia (effetto loto)"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "Primer + sigillatura perimetrale",
+          "prodotto": "Guaina Primer",
+          "additivi": "+ PROJOINT (sigillante poliuretanico monocomponente)",
+          "attrezzo": "pennellessa o rullo a pelo lungo",
+          "diluizione": "100% con acqua su supporti cementizi, 50% su guaine bituminose/ardesiate",
+          "consumo": "vd. 'Dati tecnici controllo qualità' (scheda prodotto)",
+          "note": "GUAINA PRIMER diluito al 100% con acqua su supporti cementizi, o al 50% su guaine bituminose/ardesiate. Ad asciugatura, sigillare zone perimetrali e messicani con PROJOINT (sigillante poliuretanico monocomponente)."
+        },
+        {
+          "step": "2",
+          "ruolo": "Prima mano membrana + armatura in fibra di vetro",
+          "prodotto": "Idrostop",
+          "additivi": "+ TFV 225 (tessuto in fibra di vetro 225 g/m²)",
+          "attrezzo": "rullo per resine (pelo 6-8 mm) o pennellessa",
+          "diluizione": "",
+          "consumo": "0,750 L/m² per mano quando applicato con tessuto in fibra di vetro (da scheda prodotto)",
+          "note": "Rivestire perimetrali e messicani con TFV 225 incollandolo con IDROSTOP. Applicare una prima mano uniforme di IDROSTOP sull'intera area; sul prodotto ancora fresco srotolare il TFV 225 pretagliato, impregnandolo bene e pressandolo con rullo scarico per eliminare bolle o pieghe."
+        },
+        {
+          "step": "3",
+          "ruolo": "Seconda mano membrana",
+          "prodotto": "Idrostop",
+          "additivi": "",
+          "attrezzo": "rullo per resine (pelo 6-8 mm)",
+          "diluizione": "",
+          "consumo": "0,500 L/m² per mano se applicato tal quale (da scheda prodotto)",
+          "note": "Applicare una seconda mano uniforme di IDROSTOP su tutta la superficie da impermeabilizzare."
+        },
+        {
+          "step": "4",
+          "ruolo": "Finitura trasparente opzionale (pedonabilità / effetto loto)",
+          "prodotto": "",
+          "additivi": "POLIUTEK VF300-T 2K (resina poliuretanica trasparente lucida)",
+          "attrezzo": "rullo o pennellessa",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Per aumentare la pedonabilità o facilitare l'autopulizia alla pioggia (effetto loto), applicare una mano di resina poliuretanica trasparente lucida POLIUTEK VF300-T."
+        }
+      ],
+      "spessore": "",
+      "n_mani": "2",
+      "tipo_sottofondo": "Ceramica, cemento, bitume",
+      "tempi_applicazione": "",
+      "calpestabile_dopo": "",
+      "rating": [
+        {
+          "etichetta": "Elasticità",
+          "valore": 5
+        },
+        {
+          "etichetta": "Adesione",
+          "valore": 5
+        },
+        {
+          "etichetta": "Pedonabilità",
+          "valore": 4
+        }
+      ],
+      "dati_tecnici": [
+        {
+          "etichetta": "Rete di armatura",
+          "valore": "Tessuto in fibra di vetro per superfici > 25 m²"
+        },
+        {
+          "etichetta": "Da rivestire",
+          "valore": "Non necessario"
+        },
+        {
+          "etichetta": "Diluizione primer",
+          "valore": "100% con acqua su supporti cementizi, 50% su guaine bituminose/ardesiate"
+        },
+        {
+          "etichetta": "Nome tecnico (EN)",
+          "valore": "Liquid waterproofing system based on fibre-reinforced polyurethane resin for cement screeds or bituminous membranes, including those with slate covering"
+        },
+        {
+          "etichetta": "Voce di capitolato",
+          "valore": "Guaina impermeabilizzante elastomerica poliuretanica ideale per impermeabilizzazioni di superfici orizzontali e verticali."
+        }
+      ],
+      "certificazioni": []
+    }
+  },
+  {
+    "titolo": "Guaina Plus",
+    "excerpt": "Sistema impermeabilizzante liquido a base di resina poliuretanica per massetti cementizi o guaine bituminose anche ardesiate",
+    "linea": [
+      "Waterproof"
+    ],
+    "problemi": [
+      "Guaina bituminosa a fine vita",
+      "Massetto che infiltra"
+    ],
+    "destinazioni": [
+      "Tetti",
+      "Balconi",
+      "Terrazze",
+      "Verande"
+    ],
+    "campi": {
+      "codice": "WP.07",
+      "nome_tecnico": "Sistema impermeabilizzante liquido a base di resina poliuretanica per massetti cementizi o guaine bituminose anche ardesiate",
+      "descrizione": "<p>Sistema impermeabilizzante liquido a base di resina poliuretanica per massetti cementizi o guaine bituminose anche ardesiate.</p>",
+      "problema_titolo": "Massetti e guaine da impermeabilizzare senza rimozione",
+      "problema_testo": "Impermeabilizzare massetti cementizi e guaine bituminose (anche ardesiate) con una membrana liquida poliuretanica acril-silanizzata elastica (>300%), armabile con tessuto in fibra di vetro, senza rimuovere gli strati esistenti.",
+      "soluzione_testo": "<p>Due mani di GUAINA PLUS, membrana acril-poliuretanica silanizzata antilichenica (dilatazione oltre il 300%), su GUAINA PRIMER e armatura TFV 225, senza rimuovere gli strati esistenti. Finitura opzionale POLIUTEK VF300-T per pedonabilità e autopulizia (effetto loto).</p>",
+      "vantaggi": [
+        {
+          "testo": "Membrana poliuretanica antilichenica con elasticità oltre il 300%"
+        },
+        {
+          "testo": "Applicabile su ceramica, cemento e bitume senza rimozione"
+        },
+        {
+          "testo": "Armabile con TFV 225 per superfici > 25 m²"
+        },
+        {
+          "testo": "Finitura opzionale POLIUTEK VF300-T per pedonabilità e autopulizia (effetto loto)"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "Primer + sigillatura perimetrale",
+          "prodotto": "Guaina Primer",
+          "additivi": "+ PROJOINT",
+          "attrezzo": "pennellessa o rullo a pelo lungo",
+          "diluizione": "100% con acqua su supporti cementizi, 50% su guaine bituminose",
+          "consumo": "",
+          "note": "GUAINA PRIMER diluito al 100% con acqua su supporti cementizi o al 50% su guaine bituminose. Ad asciugatura, sigillare perimetrali e messicani con PROJOINT."
+        },
+        {
+          "step": "2",
+          "ruolo": "Armatura in fibra di vetro",
+          "prodotto": "Guaina Primer",
+          "additivi": "+ TFV 225 (tessuto in fibra di vetro 225 g/m²)",
+          "attrezzo": "rullo per resine (pelo 6-8 mm)",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Rivestire perimetrali e messicani con TFV 225 incollandoli con GUAINA PRIMER. Impregnare l'intera superficie del tessuto pretagliato con GUAINA PRIMER, pressando con rullo scarico per eliminare bolle o pieghe."
+        },
+        {
+          "step": "3-4",
+          "ruolo": "Membrana poliuretanica (due mani)",
+          "prodotto": "Guaina Plus",
+          "additivi": "",
+          "attrezzo": "rullo per resine (pelo 6-8 mm)",
+          "diluizione": "",
+          "consumo": "0,500 L/m² per mano (da scheda prodotto)",
+          "note": "Ad asciugatura del primer (almeno 8 ore a >20 °C), applicare due mani uniformi di GUAINA PLUS a distanza di 12 ore l'una dall'altra."
+        },
+        {
+          "step": "5",
+          "ruolo": "Finitura trasparente opzionale (pedonabilità / effetto loto)",
+          "prodotto": "",
+          "additivi": "POLIUTEK VF300-T 2K (resina poliuretanica trasparente lucida)",
+          "attrezzo": "rullo o pennellessa",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Per aumentare la pedonabilità o facilitare l'autopulizia alla pioggia (effetto loto), applicare una mano di resina poliuretanica trasparente lucida POLIUTEK VF300-T."
+        }
+      ],
+      "spessore": "",
+      "n_mani": "2",
+      "tipo_sottofondo": "Ceramica, cemento, bitume",
+      "tempi_applicazione": "",
+      "calpestabile_dopo": "",
+      "rating": [
+        {
+          "etichetta": "Elasticità",
+          "valore": 4
+        },
+        {
+          "etichetta": "Adesione",
+          "valore": 5
+        },
+        {
+          "etichetta": "Pedonabilità",
+          "valore": 4
+        }
+      ],
+      "dati_tecnici": [
+        {
+          "etichetta": "Rete di armatura",
+          "valore": "Tessuto in fibra di vetro per superfici > 25 m²"
+        },
+        {
+          "etichetta": "Da rivestire",
+          "valore": "Non necessario"
+        },
+        {
+          "etichetta": "Diluizione primer",
+          "valore": "100% con acqua su supporti cementizi, 50% su guaine bituminose"
+        },
+        {
+          "etichetta": "Attesa asciugatura primer",
+          "valore": "almeno 8 ore a >20 °C"
+        },
+        {
+          "etichetta": "Intervallo tra le mani",
+          "valore": "12 ore"
+        },
+        {
+          "etichetta": "Nome tecnico (EN)",
+          "valore": "Liquid waterproofing system based on polyurethane resin for cement screeds or bituminous membranes, including those with slate covering"
+        },
+        {
+          "etichetta": "Voce di capitolato",
+          "valore": "Guaina impermeabilizzante elastomerica poliuretanica ideale per impermeabilizzazione di superfici orizzontali e verticali."
+        }
+      ],
+      "certificazioni": []
+    }
+  },
+  {
+    "titolo": "Guaina Pedonabile",
+    "excerpt": "Sistema impermeabilizzante liquido a base di resina acrilica silanizzata per massetti cementizi o guaine bituminose anche ardesiate",
+    "linea": [
+      "Waterproof"
+    ],
+    "problemi": [
+      "Guaina da rifare ma pedonabile",
+      "Terrazzo calpestato che infiltra"
+    ],
+    "destinazioni": [
+      "Tetti",
+      "Balconi",
+      "Terrazze",
+      "Verande"
+    ],
+    "campi": {
+      "codice": "WP.08",
+      "nome_tecnico": "Sistema impermeabilizzante liquido a base di resina acrilica silanizzata per massetti cementizi o guaine bituminose anche ardesiate",
+      "descrizione": "<p>Sistema impermeabilizzante liquido a base di resina acrilica silanizzata per massetti cementizi o guaine bituminose anche ardesiate.</p>",
+      "problema_titolo": "Guaina liquida che deve restare pedonabile",
+      "problema_testo": "Impermeabilizzare massetti cementizi e guaine bituminose con una membrana liquida acrilica silanizzata fibrorinforzata pedonabile (5/5), senza rimuovere gli strati esistenti.",
+      "soluzione_testo": "<p>Due mani di GUAINA PEDONABILE FIBRORINFORZATA, membrana acrilica silanizzata fibrorinforzata con massima pedonabilità (5/5), su GUAINA PRIMER e armatura TFV 225, senza rimuovere gli strati esistenti. Finitura opzionale POLIUTEK VF300-T per autopulizia alla pioggia (effetto loto).</p>",
+      "vantaggi": [
+        {
+          "testo": "Massima pedonabilità (5/5)"
+        },
+        {
+          "testo": "Membrana acrilica silanizzata fibrorinforzata con elasticità oltre il 300%"
+        },
+        {
+          "testo": "Applicabile su ceramica, cemento e bitume senza rimozione"
+        },
+        {
+          "testo": "Finitura opzionale POLIUTEK VF300-T per pedonabilità e autopulizia (effetto loto)"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "Primer + sigillatura perimetrale",
+          "prodotto": "Guaina Primer",
+          "additivi": "+ PROJOINT",
+          "attrezzo": "rullo a pelo lungo o pennellessa",
+          "diluizione": "100% con acqua su supporti cementizi, 50% su guaine bituminose",
+          "consumo": "",
+          "note": "GUAINA PRIMER diluito al 100% con acqua su supporti cementizi o al 50% su guaine bituminose. Ad asciugatura, sigillare perimetrali e messicani con PROJOINT."
+        },
+        {
+          "step": "2",
+          "ruolo": "Armatura in fibra di vetro",
+          "prodotto": "Guaina Primer",
+          "additivi": "+ TFV 225 (tessuto in fibra di vetro 225 g/m²)",
+          "attrezzo": "rullo per resine (pelo 6-8 mm)",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Rivestire perimetrali e messicani con TFV 225 incollandoli con GUAINA PRIMER. Impregnare l'intera superficie del tessuto pretagliato, pressando con rullo scarico per eliminare bolle o pieghe."
+        },
+        {
+          "step": "3-4",
+          "ruolo": "Membrana acrilica silanizzata fibrorinforzata (due mani)",
+          "prodotto": "Guaina Pedonabile Fibrorinforzata",
+          "additivi": "",
+          "attrezzo": "rullo per resine (pelo 6-8 mm)",
+          "diluizione": "",
+          "consumo": "0,500 L/m² tal quale; 0,750 L/m² per mano con tessuto in fibra di vetro (da scheda prodotto)",
+          "note": "Ad asciugatura del primer (almeno 8 ore a >20 °C), applicare due mani uniformi di GUAINA PEDONABILE FIBRORINFORZATA a distanza di 12 ore l'una dall'altra."
+        },
+        {
+          "step": "5",
+          "ruolo": "Finitura trasparente opzionale (pedonabilità / effetto loto)",
+          "prodotto": "",
+          "additivi": "POLIUTEK VF300-T 2K (resina poliuretanica trasparente lucida)",
+          "attrezzo": "rullo o pennellessa",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Per aumentare la pedonabilità o facilitare l'autopulizia alla pioggia (effetto loto), applicare una mano di resina poliuretanica trasparente lucida POLIUTEK VF300-T."
+        }
+      ],
+      "spessore": "",
+      "n_mani": "2",
+      "tipo_sottofondo": "Ceramica, cemento, bitume",
+      "tempi_applicazione": "",
+      "calpestabile_dopo": "",
+      "rating": [
+        {
+          "etichetta": "Elasticità",
+          "valore": 3
+        },
+        {
+          "etichetta": "Adesione",
+          "valore": 5
+        },
+        {
+          "etichetta": "Pedonabilità",
+          "valore": 5
+        }
+      ],
+      "dati_tecnici": [
+        {
+          "etichetta": "Rete di armatura",
+          "valore": "Tessuto in fibra di vetro per superfici > 25 m²"
+        },
+        {
+          "etichetta": "Da rivestire",
+          "valore": "Non necessario"
+        },
+        {
+          "etichetta": "Diluizione primer",
+          "valore": "100% con acqua su supporti cementizi, 50% su guaine bituminose"
+        },
+        {
+          "etichetta": "Attesa asciugatura primer",
+          "valore": "almeno 8 ore a >20 °C"
+        },
+        {
+          "etichetta": "Intervallo tra le mani",
+          "valore": "12 ore"
+        },
+        {
+          "etichetta": "Nome tecnico (EN)",
+          "valore": "Liquid waterproofing system based on silanised acrylic resin for cementitious screeds or bituminous membranes, including those with slate covering"
+        },
+        {
+          "etichetta": "Voce di capitolato",
+          "valore": "Guaina impermeabilizzante elastomerica acrilica silanizzata per impermeabilizzazione di superfici orizzontali e verticali."
+        }
+      ],
+      "certificazioni": []
+    }
+  },
+  {
+    "titolo": "Ecoprot",
+    "excerpt": "Sistema impermeabilizzante idoneo all'incapsulamento del cemento-amianto",
+    "linea": [
+      "Waterproof"
+    ],
+    "problemi": [
+      "Cemento-amianto da incapsulare",
+      "Tetto in eternit da bonificare senza rimozione"
+    ],
+    "destinazioni": [
+      "Coperture in cemento-amianto"
+    ],
+    "campi": {
+      "codice": "WP.09",
+      "nome_tecnico": "Sistema impermeabilizzante idoneo all'incapsulamento del cemento-amianto",
+      "descrizione": "<p>Sistema impermeabilizzante idoneo all'incapsulamento del cemento-amianto.</p>",
+      "problema_titolo": "Cemento-amianto da bonificare",
+      "problema_testo": "Bonificare coperture e manufatti in cemento-amianto rendendo innocue le fibre nocive senza rimozioni invasive: incapsulamento certificato di tipo A/B/C conforme al D.M. 20 agosto 1999.",
+      "soluzione_testo": "<p>Incapsulamento certificato del cemento-amianto: GUAINA PRIMER diluito al 50% e due mani di ECOPROT a colori contrastanti (bianco + grigio) per il controllo visivo della copertura, con spessori e diluizioni secondo le tipologie A/B/C del D.M. 20 agosto 1999.</p>",
+      "vantaggi": [
+        {
+          "testo": "Incapsulamento certificato delle fibre di amianto senza rimozione invasiva"
+        },
+        {
+          "testo": "Conforme al D.M. 20 agosto 1999 (G.U. 22-10-1999, n. 249) e alla L. 257/1992"
+        },
+        {
+          "testo": "Due mani a colori contrastanti (bianco + grigio) per controllo visivo della copertura"
+        },
+        {
+          "testo": "Applicazione airless rapida e uniforme"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "Primer",
+          "prodotto": "Guaina Primer",
+          "additivi": "",
+          "attrezzo": "airless (preferibile)",
+          "diluizione": "50% acqua (tutte le tipologie A/B/C)",
+          "consumo": "",
+          "note": "Applicare GUAINA PRIMER sul supporto distribuendolo omogeneamente ed uniformemente. I successivi due strati di ECOPROT dovranno essere di colore diverso e contrastante."
+        },
+        {
+          "step": "2",
+          "ruolo": "Incapsulante - prima mano (colore bianco)",
+          "prodotto": "Ecoprot",
+          "additivi": "",
+          "attrezzo": "airless",
+          "diluizione": "in base alla tipologia A/B/C: non diluito, 15% o 30% con acqua",
+          "consumo": "0,500 L/m² per mano non diluito; 0,300 L/m² diluito al 15%; 0,200 L/m² diluito al 30% (da scheda prodotto)",
+          "note": "Applicare la prima mano di ECOPROT di colore bianco distribuendolo omogeneamente sulla superficie da incapsulare, in ragione dei quantitativi indicati dalla normativa."
+        },
+        {
+          "step": "3",
+          "ruolo": "Incapsulante - seconda mano (colore grigio)",
+          "prodotto": "Ecoprot",
+          "additivi": "",
+          "attrezzo": "airless",
+          "diluizione": "in base alla tipologia A/B/C: non diluito, 15% o 30% con acqua",
+          "consumo": "come step 2 in base alla tipologia",
+          "note": "Applicare la seconda mano di ECOPROT di colore grigio distribuendolo omogeneamente sulla superficie da incapsulare."
+        }
+      ],
+      "spessore": "200-300 micron secondo tipologia A/B/C",
+      "n_mani": "2 (bianco + grigio)",
+      "tipo_sottofondo": "Cemento-amianto",
+      "tempi_applicazione": "",
+      "calpestabile_dopo": "",
+      "rating": [],
+      "dati_tecnici": [
+        {
+          "etichetta": "Tipo A — spessore",
+          "valore": "300 micron (a vista dall'esterno)"
+        },
+        {
+          "etichetta": "Tipo A — Guaina Primer",
+          "valore": "diluizione 50% acqua"
+        },
+        {
+          "etichetta": "Tipo A — Ecoprot bianco",
+          "valore": "non diluito"
+        },
+        {
+          "etichetta": "Tipo A — Ecoprot grigio",
+          "valore": "non diluito"
+        },
+        {
+          "etichetta": "Tipo B — spessore",
+          "valore": "250 micron (a vista dall'interno)"
+        },
+        {
+          "etichetta": "Tipo B — Guaina Primer",
+          "valore": "diluizione 50% acqua"
+        },
+        {
+          "etichetta": "Tipo B — Ecoprot bianco",
+          "valore": "diluito 15% acqua"
+        },
+        {
+          "etichetta": "Tipo B — Ecoprot grigio",
+          "valore": "diluito 15% acqua"
+        },
+        {
+          "etichetta": "Tipo C — spessore",
+          "valore": "200 micron (non a vista dall'interno)"
+        },
+        {
+          "etichetta": "Tipo C — Guaina Primer",
+          "valore": "diluizione 50% acqua"
+        },
+        {
+          "etichetta": "Tipo C — Ecoprot bianco",
+          "valore": "diluito 30% acqua"
+        },
+        {
+          "etichetta": "Tipo C — Ecoprot grigio",
+          "valore": "diluito 30% acqua"
+        },
+        {
+          "etichetta": "Riferimento normativo",
+          "valore": "D.M. 20/08/1999 (G.U. n. 249) - Bonifica e incapsulamento amianto ex L. 257/1992"
+        },
+        {
+          "etichetta": "Nome tecnico (EN)",
+          "valore": "Waterproofing system suitable for encapsulating asbestos cement"
+        },
+        {
+          "etichetta": "Voce di capitolato",
+          "valore": "Sistema impermeabilizzante certificato per la bonifica e l'incapsulamento delle fibre di amianto di tipo A come da D.M. 20 agosto 1999 (G.U. 22-10-1999, n. 249). Ampliamento delle normative e delle metodologie tecniche per gli interventi di bonifica, ivi compresi quelli per rendere innocuo l'amianto, previsti dall'art.5, comma 1, lettera f, della legge 27 marzo 1992, n. 257, recante norme relative alla cessazione dell'impiego dell'amianto."
+        }
+      ],
+      "certificazioni": [
+        {
+          "nome": "D.M. 20 agosto 1999 (G.U. 22-10-1999, n. 249) - incapsulamento fibre amianto di tipo A"
+        },
+        {
+          "nome": "Legge 27 marzo 1992, n. 257, art. 5 comma 1 lettera f"
+        },
+        {
+          "nome": "Test UNICHIM 810, UNICHIM 175, UNI 8941, MOCF (da scheda prodotto Ecoprot)"
+        }
+      ]
+    }
+  },
+  {
+    "titolo": "Guaina Termoriflettente",
+    "excerpt": "Sistema impermeabilizzante a base di resina elastomerica formulata con 3M Glass Bubbles",
+    "linea": [
+      "Waterproof"
+    ],
+    "problemi": [
+      "Tetto che scotta d'estate",
+      "Bollette di condizionamento alte",
+      "Guaina bituminosa surriscaldata"
+    ],
+    "destinazioni": [
+      "Tetti",
+      "Terrazze",
+      "Pergolati"
+    ],
+    "campi": {
+      "codice": "WP.10",
+      "nome_tecnico": "Sistema impermeabilizzante a base di resina elastomerica formulata con 3M Glass Bubbles",
+      "descrizione": "<p>Sistema impermeabilizzante a base di resina elastomerica formulata con 3M Glass Bubbles.</p>",
+      "problema_titolo": "Tetto surriscaldato e costi di condizionamento",
+      "problema_testo": "Impermeabilizzare tetti e coperture riducendo al contempo la temperatura superficiale e i costi di condizionamento: membrana bianca termoriflettente (cool roof) con SRI 105% che aumenta anche l'efficienza dei pannelli fotovoltaici.",
+      "soluzione_testo": "<p>Membrana elastomerica bianca GUAINA TERMORIFLETTENTE formulata con 3M Glass Bubbles su GUAINA PRIMER, armata con TFV 225: riflettività solare 0,82, SRI 105%, riduce la temperatura superficiale del manto impermeabile nelle ore diurne, favorisce la dissipazione notturna del calore e aumenta l'efficienza dei pannelli fotovoltaici.</p>",
+      "vantaggi": [
+        {
+          "testo": "Alta riflettività solare (ASTM C-1549: 0,82) ed emissività nell'infrarosso (ASTM C-1471: 0,90)"
+        },
+        {
+          "testo": "Solar Reflectance Index SRI 105%"
+        },
+        {
+          "testo": "Aumenta la luce diffusa e l'efficienza dei pannelli fotovoltaici"
+        },
+        {
+          "testo": "Riduce la temperatura superficiale del manto impermeabile bituminoso nelle ore diurne e favorisce la dissipazione notturna del calore"
+        },
+        {
+          "testo": "Consistente risparmio energetico per il condizionamento degli edifici"
+        },
+        {
+          "testo": "Formulata con 3M Glass Bubbles"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "Primer",
+          "prodotto": "Guaina Primer",
+          "additivi": "",
+          "attrezzo": "pennellessa o rullo specifico",
+          "diluizione": "diluito al 100% con acqua",
+          "consumo": "",
+          "note": "Applicare una mano uniforme di GUAINA PRIMER (diluito al 100% con acqua) su pavimentazione e superfici verticali da impermeabilizzare."
+        },
+        {
+          "step": "2",
+          "ruolo": "Prima mano membrana termoriflettente + armatura",
+          "prodotto": "Guaina Termoriflettente",
+          "additivi": "+ TFV 225; perimetrali e messicani incollati con GUAINA PRIMER pronto all'uso o PROJOINT",
+          "attrezzo": "rullo per resine (pelo 6-8 mm) o pennellessa",
+          "diluizione": "",
+          "consumo": "0,500 L/m² per mano (da scheda prodotto)",
+          "note": "Ad asciugatura del primer, rivestire perimetrali e messicani con TFV 225 incollandoli con GUAINA PRIMER pronto all'uso o PROJOINT. Applicare una prima mano uniforme di GUAINA TERMORIFLETTENTE su tutta la superficie; sul prodotto ancora fresco srotolare il TFV 225 pretagliato, impregnandolo a fondo e pressandolo con rullo scarico."
+        },
+        {
+          "step": "3",
+          "ruolo": "Seconda mano membrana termoriflettente",
+          "prodotto": "Guaina Termoriflettente",
+          "additivi": "",
+          "attrezzo": "rullo per resine (pelo 6-8 mm)",
+          "diluizione": "",
+          "consumo": "0,500 L/m² per mano (da scheda prodotto)",
+          "note": "Ad asciugatura della prima mano (almeno 8 ore a >20 °C), applicare una seconda mano uniforme su tutta la superficie."
+        }
+      ],
+      "spessore": "",
+      "n_mani": "2",
+      "tipo_sottofondo": "Guaine bituminose, cemento",
+      "tempi_applicazione": "",
+      "calpestabile_dopo": "",
+      "rating": [
+        {
+          "etichetta": "Elasticità",
+          "valore": 4
+        },
+        {
+          "etichetta": "Adesione",
+          "valore": 4
+        },
+        {
+          "etichetta": "Pedonabilità",
+          "valore": 2
+        }
+      ],
+      "dati_tecnici": [
+        {
+          "etichetta": "Rete di armatura",
+          "valore": "Tessuto in fibra di vetro per superfici > 25 m²"
+        },
+        {
+          "etichetta": "Da rivestire",
+          "valore": "Non necessario"
+        },
+        {
+          "etichetta": "Riflettività solare",
+          "valore": "0,82 (ASTM C-1549)"
+        },
+        {
+          "etichetta": "Emissività all'infrarosso",
+          "valore": "0,90 (ASTM C-1471) [scheda prodotto: 0,86]"
+        },
+        {
+          "etichetta": "Solar Reflectance Index",
+          "valore": "SRI 105%"
+        },
+        {
+          "etichetta": "Attesa tra le mani",
+          "valore": "almeno 8 ore a >20 °C"
+        },
+        {
+          "etichetta": "Nome tecnico (EN)",
+          "valore": "Waterproofing system based on elastomeric resin formulated with 3M Glass Bubbles"
+        },
+        {
+          "etichetta": "Voce di capitolato",
+          "valore": "Rivestimento elastomerico monocomponente bianco, a base di polimeri in emulsione acquosa e additivi speciali, flessibile, resistente agli agenti atmosferici, ad alta riflettività solare ed emissività nell'infrarosso in grado di aumentare la luce diffusa e l'efficienza dei pannelli fotovoltaici, di ridurre la temperatura superficiale del manto impermeabile bituminoso nelle ore diurne, favorire la dissipazione del calore accumulato nelle ore notturne e conseguentemente determinare un consistente risparmio energetico per il condizionamento degli edifici. Il rivestimento e' dotato di una Riflettività solare (ASTM C-1549) 0,82, emissività all'infrarosso (ASTM C-1471) 0,90 e da un Solar Reflectance Index SRI 105%."
+        }
+      ],
+      "certificazioni": [
+        {
+          "nome": "ASTM C-1549 (riflettività solare)"
+        },
+        {
+          "nome": "ASTM C-1471 (emissività infrarosso)"
+        }
+      ]
+    }
+  },
+  {
+    "titolo": "Elastocem",
+    "excerpt": "Sistema impermeabilizzante elasto-cementizio a strato sottile per balconi e terrazzi",
+    "linea": [
+      "Waterproof"
+    ],
+    "problemi": [
+      "Impermeabilizzare sotto le piastrelle",
+      "Balcone da piastrellare senza infiltrazioni"
+    ],
+    "destinazioni": [
+      "Tetti",
+      "Balconi",
+      "Terrazze",
+      "Verande",
+      "Fondazioni",
+      "Piscine"
+    ],
+    "campi": {
+      "codice": "WP.11",
+      "nome_tecnico": "Sistema impermeabilizzante elasto-cementizio a strato sottile per balconi e terrazzi",
+      "descrizione": "<p>Sistema impermeabilizzante elasto-cementizio a strato sottile per balconi e terrazzi.</p>",
+      "problema_titolo": "Impermeabilizzare sotto piastrella",
+      "problema_testo": "Impermeabilizzare sottopiastrella (o sotto guaine liquide) balconi, terrazzi, fondazioni e piscine con una membrana elasto-cementizia bicomponente a strato sottile ad altissima elasticità, armata con tessuto in fibra di vetro, da rivestire successivamente.",
+      "soluzione_testo": "<p>Membrana elasto-cementizia bicomponente ELASTOCEM a strato sottile, armata con TFV 225 su GUAINA PRIMER e sigillatura PROJOINT: impermeabilizzazione sottopiastrella ad altissima elasticità, da rivestire con ceramica o guaine liquide (sovraverniciabile con Guaina Pedonabile, Elax-Uv, Poliutek VF200/VF300).</p>",
+      "vantaggi": [
+        {
+          "testo": "Massima elasticità (5/5) e adesione (5/5)"
+        },
+        {
+          "testo": "Ideale per impermeabilizzazione sottopiastrella di superfici orizzontali e verticali"
+        },
+        {
+          "testo": "Resistenza agli agenti atmosferici, alla CO2 e ai cicli gelo-disgelo (da scheda prodotto)"
+        },
+        {
+          "testo": "Idoneo al contatto con acqua potabile (da scheda prodotto)"
+        },
+        {
+          "testo": "Sovraverniciabile con Guaina Pedonabile, Elax-Uv, Poliutek VF200/VF300 oppure piastrellabile"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "Primer + sigillatura perimetrale",
+          "prodotto": "Guaina Primer",
+          "additivi": "+ PROJOINT (sigillante poliuretanico monocomponente)",
+          "attrezzo": "pennellessa o rullo a pelo lungo",
+          "diluizione": "100% con acqua su supporti cementizi, 50% su guaine bituminose anche ardesiate",
+          "consumo": "",
+          "note": "GUAINA PRIMER diluito al 100% con acqua su supporto di natura cementizia o al 50% su guaine bituminose anche ardesiate. Sigillare le zone perimetrali e i messicani con PROJOINT dopo asciugatura del primer."
+        },
+        {
+          "step": "2",
+          "ruolo": "Prima mano membrana elasto-cementizia + armatura in fibra di vetro",
+          "prodotto": "Elastocem",
+          "additivi": "+ TFV 225 (tessuto in fibra di vetro 225 g/m²)",
+          "attrezzo": "pennellessa e rullo per resine (pelo testurizzato 6-8 mm)",
+          "diluizione": "",
+          "consumo": "0,500-0,750 kg/m² per mano quando applicato con tessuto in fibra di vetro (da scheda prodotto)",
+          "note": "Rivestire le superfici perimetrali con TFV 225 incollandole con ELASTOCEM. Dopo aver rivestito perimetrali e messicani, impregnare direttamente il TFV 225 pretagliato con ELASTOCEM fino a completa impregnazione, schiacciandolo con rullo scarico per eliminare bolle o pieghe."
+        },
+        {
+          "step": "3",
+          "ruolo": "Seconda mano membrana elasto-cementizia",
+          "prodotto": "Elastocem",
+          "additivi": "",
+          "attrezzo": "rullo per resine (pelo testurizzato 6-8 mm)",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Applicare la seconda mano di ELASTOCEM distribuendolo omogeneamente ed uniformemente su tutta la superficie da impermeabilizzare."
+        }
+      ],
+      "spessore": "",
+      "n_mani": "2",
+      "tipo_sottofondo": "Ceramica, cemento, bitume",
+      "tempi_applicazione": "",
+      "calpestabile_dopo": "",
+      "rating": [
+        {
+          "etichetta": "Elasticità",
+          "valore": 5
+        },
+        {
+          "etichetta": "Adesione",
+          "valore": 5
+        },
+        {
+          "etichetta": "Pedonabilità",
+          "valore": 2
+        }
+      ],
+      "dati_tecnici": [
+        {
+          "etichetta": "Rete di armatura",
+          "valore": "Tessuto in fibra di vetro"
+        },
+        {
+          "etichetta": "Da rivestire",
+          "valore": "Ceramica o guaine liquide"
+        },
+        {
+          "etichetta": "Diluizione primer",
+          "valore": "100% con acqua su supporti cementizi, 50% su guaine bituminose anche ardesiate"
+        },
+        {
+          "etichetta": "Nome tecnico (EN)",
+          "valore": "Thin-layer elastic cementitious waterproofing system for balconies and terraces"
+        },
+        {
+          "etichetta": "Voce di capitolato",
+          "valore": "Guaina impermeabilizzante elasto-cementizia ideale per impermeabilizzazione sottopiastrella di superfici orizzontali e verticali."
+        }
+      ],
+      "certificazioni": []
+    }
+  },
+  {
+    "titolo": "Maltaflex",
+    "excerpt": "Sistema impermeabilizzante a malta cementizia elastica per calcestruzzi, balconi, terrazzi e piscine",
+    "linea": [
+      "Waterproof"
+    ],
+    "problemi": [
+      "Piscina da impermeabilizzare sotto piastrella",
+      "Calcestruzzo fessurato che infiltra"
+    ],
+    "destinazioni": [
+      "Tetti",
+      "Balconi",
+      "Terrazze",
+      "Verande",
+      "Calcestruzzi",
+      "Piscine"
+    ],
+    "campi": {
+      "codice": "WP.12",
+      "nome_tecnico": "Sistema impermeabilizzante a malta cementizia elastica per calcestruzzi, balconi, terrazzi e piscine",
+      "descrizione": "<p>Sistema impermeabilizzante a malta cementizia elastica per calcestruzzi, balconi, terrazzi e piscine.</p>",
+      "problema_titolo": "Piscine, balconi e calcestruzzi sotto piastrella",
+      "problema_testo": "Impermeabilizzare sottopiastrella calcestruzzi, balconi, terrazzi e piscine con una malta bicomponente elasto-cementizia fibrorinforzata certificata, armata con rete in fibra di vetro e bandella butilica su giunti e perimetrali.",
+      "soluzione_testo": "<p>Malta bicomponente elasto-cementizia fibrorinforzata MALTAFLEX certificata UNI EN 1504-2: bandella butilica BAND 12 su giunti e perimetrali, rete NET150 annegata nel primo strato e seconda mano a spatola per l'impermeabilizzazione sottopiastrella di calcestruzzi, balconi, terrazzi e piscine.</p>",
+      "vantaggi": [
+        {
+          "testo": "Malta bi-componente elasto-cementizia certificata UNI EN 1504-2 (da scheda prodotto)"
+        },
+        {
+          "testo": "Rimane elastica nel tempo, resistente agli agenti atmosferici, alla CO2 e ai cicli gelo-disgelo (da scheda prodotto)"
+        },
+        {
+          "testo": "Ideale sottopiastrella o lasciata a vista e rifinita con resine elastomeriche (Idrostop, Guaina Plus, Guaina Pedonabile Fibrorinforzata, Pavim Sport, Elax-Uv)"
+        },
+        {
+          "testo": "Trattamento giunti di frazionamento/dilatazione con bandella butilica BAND 12"
+        },
+        {
+          "testo": "Armatura con rete in fibra di vetro NET150"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "Primer + sigillatura perimetrale",
+          "prodotto": "Guaina Primer",
+          "additivi": "+ PROJOINT o BAND 12",
+          "attrezzo": "pennellessa o rullo a pelo lungo",
+          "diluizione": "100% con acqua su supporti cementizi, 50% su piastrelle o supporti poco assorbenti",
+          "consumo": "",
+          "note": "GUAINA PRIMER diluito al 100% con acqua su supporto di natura cementizia o al 50% su piastrelle o supporti poco assorbenti. Sigillare le zone perimetrali e i messicani con PROJOINT (sigillante poliuretanico monocomponente) dopo asciugatura del primer."
+        },
+        {
+          "step": "2",
+          "ruolo": "Bandella su giunti + primo strato malta + rete di armatura",
+          "prodotto": "Maltaflex",
+          "additivi": "+ BAND 12 (bandella butilica autoadesiva) + NET150 (rete in fibra di vetro)",
+          "attrezzo": "spatola",
+          "diluizione": "",
+          "consumo": "MALTAFLEX 2,5-3,5 kg/m² per uno spessore di 3 mm (da scheda prodotto)",
+          "note": "Rivestire le superfici perimetrali con BAND 12. Dopo aver rivestito perimetrali e giunti di frazionamento e dilatazione, stendere il primo strato di MALTAFLEX; sul prodotto ancora fresco adagiare la rete NET150 e impregnarla accuratamente con un ulteriore strato di MALTAFLEX per ricoprire la rete, evitando formazioni di rialzi."
+        },
+        {
+          "step": "3",
+          "ruolo": "Seconda mano malta elasto-cementizia",
+          "prodotto": "Maltaflex",
+          "additivi": "",
+          "attrezzo": "spatola",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Applicare la seconda mano di MALTAFLEX distribuendola omogeneamente ed uniformemente su tutta la superficie da impermeabilizzare."
+        }
+      ],
+      "spessore": "3 mm (2,5-3,5 kg/m², da scheda prodotto)",
+      "n_mani": "2",
+      "tipo_sottofondo": "Ceramica, cemento",
+      "tempi_applicazione": "",
+      "calpestabile_dopo": "",
+      "rating": [
+        {
+          "etichetta": "Elasticità",
+          "valore": 4
+        },
+        {
+          "etichetta": "Adesione",
+          "valore": 5
+        },
+        {
+          "etichetta": "Pedonabilità",
+          "valore": 2
+        }
+      ],
+      "dati_tecnici": [
+        {
+          "etichetta": "Rete di armatura",
+          "valore": "Rete in fibra di vetro"
+        },
+        {
+          "etichetta": "Da rivestire",
+          "valore": "Ceramica o guaine liquide"
+        },
+        {
+          "etichetta": "Diluizione primer",
+          "valore": "100% con acqua su supporti cementizi, 50% su piastrelle o supporti poco assorbenti"
+        },
+        {
+          "etichetta": "Nome tecnico (EN)",
+          "valore": "Elastic cementitious mortar waterproofing system for concrete, balconies, terraces and swimming pools"
+        },
+        {
+          "etichetta": "Voce di capitolato",
+          "valore": "Malta bi-componente elasto-cementizia ideale per impermeabilizzazione sottopiastrella di superfici orizzontali e verticali."
+        }
+      ],
+      "certificazioni": [
+        {
+          "nome": "UNI EN 1504-2 (prodotto Maltaflex)"
+        }
+      ]
+    }
+  },
+  {
+    "titolo": "Cromateria Wall",
+    "excerpt": "Sistema decorativo materico colorato monocromatico in 3 mm per pareti e mobili d'arredo, con doppia rasatura armata e top poliuretanico antigraffio certificato HACCP.",
+    "linea": [
+      "Cromateria"
+    ],
+    "problemi": [
+      "Rinnovare pareti e arredi senza demolire",
+      "Decorare il cartongesso con effetto materico"
+    ],
+    "destinazioni": [
+      "Pareti",
+      "Mobili e arredi"
+    ],
+    "campi": {
+      "codice": "C.01",
+      "nome_tecnico": "Sistema decorativo materico colorato monocromatico per pareti o mobili d'arredo",
+      "descrizione": "<p>Sistema multistrato di 3 mm ad effetto materico monocromatico da realizzarsi previa preparazione dei supporti con speciale micro resina fibrata in pasta che permette di realizzare una perfetta doppia rasatura con interpolazione di rete in fibra di vetro prima della stesura di un doppio strato di micro resina a granulometria fine o media, protetto da verniciatura con resina poliuretanica alifatica antigraffio ed impermeabilizzante, certificata HACCP.</p>",
+      "problema_titolo": "Decorare pareti, cartongesso e arredi con superficie continua",
+      "problema_testo": "Decorare pareti, cartongesso e mobili d'arredo con una finitura materica continua monocromatica su supporti asciutti (senza problemi di umidità), in soli 3-4 mm, con protezione antigraffio e impermeabilizzante.",
+      "soluzione_testo": "<p>Ciclo in 8 mani: primer consolidante e aggrappante, doppia rasatura con annegamento di rete in fibra di vetro alcali resistente PRONET 100 mediante micro resina fibrata in pasta, doppia rasatura di finitura decorativa a granulometria fine (02) o media/strutturale (06), quindi mano di aggancio con CROMATERIA TOP diluito al 50% con acqua e doppia mano di top poliuretanico alifatico trasparente opaco, satinato o lucido.</p>",
+      "vantaggi": [
+        {
+          "testo": "Resistenza chimica"
+        },
+        {
+          "testo": "Forte adesione ai supporti"
+        },
+        {
+          "testo": "Sovrapponibile su altri supporti esistenti"
+        },
+        {
+          "testo": "Doppia rasatura armata con rete in fibra di vetro"
+        },
+        {
+          "testo": "Finitura fine o media a scelta (02/06)"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "Primer",
+          "prodotto": "Cromateria Primer",
+          "additivi": "",
+          "attrezzo": "rullo",
+          "diluizione": "",
+          "consumo": "0,200 kg/m² per mano (da scheda prodotto)",
+          "note": "Primo strato di primer consolidante e aggrappante fillerizzato monocomponente. Rif. p. 86."
+        },
+        {
+          "step": "2",
+          "ruolo": "Rasatura armata",
+          "prodotto": "Cromateria Fondo/Intermedio",
+          "additivi": "+ PRONET 100 (rete in fibra di vetro alcali resistente)",
+          "attrezzo": "spatola liscia",
+          "diluizione": "",
+          "consumo": "1,5 kg/m² per mano (da scheda prodotto)",
+          "note": "Rasatura del supporto mediante annegamento della rete PRONET 100 con malta monocomponente. Rif. p. 88."
+        },
+        {
+          "step": "3",
+          "ruolo": "Rasatura a zero",
+          "prodotto": "Cromateria Fondo/Intermedio",
+          "additivi": "",
+          "attrezzo": "spatola liscia",
+          "diluizione": "",
+          "consumo": "1,5 kg/m² per mano (da scheda prodotto)",
+          "note": "Rasatura a zero con spatola liscia. Rif. p. 88."
+        },
+        {
+          "step": "4-5",
+          "ruolo": "Finitura decorativa (doppia rasatura)",
+          "prodotto": "Cromateria Finitura 02",
+          "additivi": "",
+          "attrezzo": "spatola liscia",
+          "diluizione": "",
+          "consumo": "0,5-0,750 kg/m² per mm di spessore (da scheda prodotto Finitura 02)",
+          "note": "Doppia rasatura di finitura decorativa a granulometria fine (02) o, in alternativa, media/strutturale (Finitura 06). Rif. p. 90."
+        },
+        {
+          "step": "6",
+          "ruolo": "Primer di fondo per il top",
+          "prodotto": "Cromateria Top",
+          "additivi": "",
+          "attrezzo": "rullo",
+          "diluizione": "50% con acqua",
+          "consumo": "",
+          "note": "Applicazione a rullo di primer realizzato con CROMATERIA TOP diluito con acqua al 50%. Rif. p. 93."
+        },
+        {
+          "step": "7-8",
+          "ruolo": "Top protettivo trasparente (doppia mano)",
+          "prodotto": "Cromateria Top",
+          "additivi": "",
+          "attrezzo": "rullo o spatola liscia in plastica",
+          "diluizione": "",
+          "consumo": "0,08 kg/m² per mano A+B (da scheda prodotto)",
+          "note": "Doppia mano di finitura trasparente opaca, satinata o lucida. Rif. p. 93."
+        }
+      ],
+      "spessore": "< 4 mm",
+      "n_mani": "8",
+      "tipo_sottofondo": "Intonaci cementizi, cartongesso, ceramica, XPS, MDF, mosaici in vetro",
+      "tempi_applicazione": "8 gg",
+      "calpestabile_dopo": "7 gg",
+      "rating": [],
+      "dati_tecnici": [
+        {
+          "etichetta": "Proprietà",
+          "valore": "Resistenza chimica; Forte adesione ai supporti; Sovrapponibile su altri supporti"
+        },
+        {
+          "etichetta": "Effetti e colori",
+          "valore": "Monocromatico materico; colorabile con TintoSystem (RAL, NCS, Colortrend Collection, Finitura Cement); granulometria 02 (fine, setosa) o 06 (materica strutturale); finitura top opaco, satinato o lucido"
+        },
+        {
+          "etichetta": "Sistema tintometrico",
+          "valore": "TintoSystem: 940 colori base, cartelle RAL, NCS, Colortrend Collection, Finitura Cement; pigmenti e paste coloranti di ultima generazione prive di sostanze nocive"
+        },
+        {
+          "etichetta": "Gamma linea Cromateria",
+          "valore": "940 colori, 4 granulometrie (dalla più fine 02, liscia come seta, alla 06, matericità strutturale), 3 finiture (opaca, satinata, lucida), 3 effetti decorativi (micro resina, micro cemento, micro cocciopesto); ciclo in 8 passaggi per soli 3 mm di spessore"
+        },
+        {
+          "etichetta": "Umidità residua supporti cementizi e ceramica",
+          "valore": "< 2% (< 1.7% con impianti radianti)"
+        },
+        {
+          "etichetta": "Umidità residua supporti anidrite",
+          "valore": "< 0.5% (< 0.2% con impianti radianti)"
+        },
+        {
+          "etichetta": "Temperature limite di applicazione",
+          "valore": "da +10 a +30 °C"
+        },
+        {
+          "etichetta": "Umidità relativa ambientale",
+          "valore": "≤ 75%"
+        },
+        {
+          "etichetta": "Resistenza allo strappo del supporto",
+          "valore": "> 1.5 MPa (ASTM D4541)"
+        },
+        {
+          "etichetta": "Resistenza a compressione del supporto",
+          "valore": "> 25 N/mm²"
+        },
+        {
+          "etichetta": "Umidità di risalita massima (igrometro al carburo)",
+          "valore": "< 3.8%; se superiore predisporre barriera al vapore con ciclo Antiumido"
+        },
+        {
+          "etichetta": "Norma di riferimento sottofondi",
+          "valore": "UNI 10966 (progettazione e posa dei sistemi resinosi per pavimentazioni)"
+        }
+      ],
+      "certificazioni": [
+        {
+          "nome": "HACCP"
+        }
+      ]
+    }
+  },
+  {
+    "titolo": "Cromateria Floor",
+    "excerpt": "Sistema decorativo antiumidità materico monocromatico per pavimenti e pareti: rasante epossi-cementizio fibrato con barriera all'umidità e finitura in micro resina protetta da top poliuretanico HACCP.",
+    "linea": [
+      "Cromateria"
+    ],
+    "problemi": [
+      "Rivestire senza demolire la ceramica",
+      "Umidità di risalita su pavimento"
+    ],
+    "destinazioni": [
+      "Pavimenti",
+      "Pareti",
+      "Negozi e show-room",
+      "Appartamenti e uffici"
+    ],
+    "campi": {
+      "codice": "C.02",
+      "nome_tecnico": "Sistema decorativo antiumidità materico colorato monocromatico per pareti o pavimenti",
+      "descrizione": "<p>Sistema multistrato ad effetto materico monocromatico da realizzarsi previa preparazione dei supporti con speciale rasante epossi-cementizio fibrato che permette di realizzare una barriera all'umidità di spinta negativa e positiva prima della stesura di un doppio strato di microresina a granulometria fine, protetto da verniciatura con resina poliuretanica alifatica antigraffio e impermeabilizzante, certificata HACCP.</p>",
+      "problema_titolo": "Pavimenti da rivestire anche con umidità di risalita",
+      "problema_testo": "Rivestire pavimenti (e pareti) soggetti a umidità di spinta negativa e positiva: il rasante epossi-cementizio fibrato crea una barriera all'umidità prima della finitura decorativa monocromatica.",
+      "soluzione_testo": "<p>Ciclo in 8 mani della filiera antiumido: primer epossi-cementizio bicomponente con barriera all'umidità di controspinta, doppia rasatura con rete PRONET 100 mediante malta tricomponente epossi-cementizia fibrorinforzata, doppia rasatura di finitura decorativa a granulometria fine, mano di aggancio con CROMATERIA TOP diluito al 50% e doppia mano di top poliuretanico alifatico trasparente.</p>",
+      "vantaggi": [
+        {
+          "testo": "Barriera all'umidità di spinta negativa e positiva"
+        },
+        {
+          "testo": "Resistenza chimica"
+        },
+        {
+          "testo": "Resistenza umidità"
+        },
+        {
+          "testo": "Sovrapponibile su altri supporti esistenti"
+        },
+        {
+          "testo": "Antigraffio e impermeabilizzante grazie al top poliuretanico alifatico"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "Primer antiumido",
+          "prodotto": "Cromateria Primer Antiumido",
+          "additivi": "",
+          "attrezzo": "rullo",
+          "diluizione": "",
+          "consumo": "0,200 kg/m² per mano non diluito; 0,500 kg/m² caricato al 50% con Proquarz 04 (da scheda prodotto)",
+          "note": "Primo strato di primer epossi-cementizio con barriera all'umidità di controspinta. Rif. p. 87."
+        },
+        {
+          "step": "2",
+          "ruolo": "Rasatura armata antiumido",
+          "prodotto": "Cromateria Fondo/Intermedio Antiumido",
+          "additivi": "+ PRONET 100 (rete in fibra di vetro alcali-resistente)",
+          "attrezzo": "spatola liscia",
+          "diluizione": "",
+          "consumo": "1,25 kg/m² per mm di spessore (da scheda prodotto)",
+          "note": "Rasatura con incorporazione della rete PRONET 100 mediante malta tri-componente epossicementizia fibrorinforzata. Rif. p. 89."
+        },
+        {
+          "step": "3",
+          "ruolo": "Rasatura a zero antiumido",
+          "prodotto": "Cromateria Fondo/Intermedio Antiumido",
+          "additivi": "",
+          "attrezzo": "spatola liscia",
+          "diluizione": "",
+          "consumo": "1,25 kg/m² per mm di spessore (da scheda prodotto)",
+          "note": "Rasatura a zero con malta tricomponente. Rif. p. 89."
+        },
+        {
+          "step": "4-5",
+          "ruolo": "Finitura decorativa (doppia rasatura)",
+          "prodotto": "Cromateria Finitura 02",
+          "additivi": "",
+          "attrezzo": "spatola liscia",
+          "diluizione": "",
+          "consumo": "0,5-0,750 kg/m² per mm di spessore (da scheda prodotto Finitura 02)",
+          "note": "Doppia rasatura di finitura decorativa (granulometria 02 o, in alternativa, 06). Rif. p. 90."
+        },
+        {
+          "step": "6",
+          "ruolo": "Primer di fondo per il top",
+          "prodotto": "Cromateria Top",
+          "additivi": "",
+          "attrezzo": "rullo",
+          "diluizione": "50% con acqua",
+          "consumo": "",
+          "note": "Primer realizzato con CROMATERIA TOP diluito con acqua al 50%. Rif. p. 93."
+        },
+        {
+          "step": "7-8",
+          "ruolo": "Top protettivo trasparente (doppia mano)",
+          "prodotto": "Cromateria Top",
+          "additivi": "",
+          "attrezzo": "rullo o spatola liscia in plastica",
+          "diluizione": "",
+          "consumo": "0,08 kg/m² per mano A+B (da scheda prodotto)",
+          "note": "Doppia mano di finitura trasparente. Rif. p. 93."
+        }
+      ],
+      "spessore": "< 4 mm",
+      "n_mani": "8",
+      "tipo_sottofondo": "Cemento, ceramica, mosaici in vetro",
+      "tempi_applicazione": "8 gg",
+      "calpestabile_dopo": "7 gg",
+      "rating": [],
+      "dati_tecnici": [
+        {
+          "etichetta": "Proprietà",
+          "valore": "Resistenza chimica; Resistenza umidità; Sovrapponibile su altri supporti"
+        },
+        {
+          "etichetta": "Effetti e colori",
+          "valore": "Monocromatico materico a granulometria fine; colorabile con TintoSystem (RAL, NCS, Colortrend Collection, Finitura Cement); top opaco/satinato/lucido"
+        },
+        {
+          "etichetta": "Destinazione",
+          "valore": "Ambienti a traffico medio: negozi, show-room, appartamenti, uffici, aree commerciali"
+        },
+        {
+          "etichetta": "Sistema tintometrico",
+          "valore": "TintoSystem: 940 colori base, cartelle RAL, NCS, Colortrend Collection, Finitura Cement; pigmenti e paste coloranti di ultima generazione prive di sostanze nocive"
+        },
+        {
+          "etichetta": "Gamma linea Cromateria",
+          "valore": "940 colori, 4 granulometrie (dalla più fine 02, liscia come seta, alla 06, matericità strutturale), 3 finiture (opaca, satinata, lucida), 3 effetti decorativi (micro resina, micro cemento, micro cocciopesto); ciclo in 8 passaggi per soli 3 mm di spessore"
+        },
+        {
+          "etichetta": "Umidità residua supporti cementizi e ceramica",
+          "valore": "< 2% (< 1.7% con impianti radianti)"
+        },
+        {
+          "etichetta": "Umidità residua supporti anidrite",
+          "valore": "< 0.5% (< 0.2% con impianti radianti)"
+        },
+        {
+          "etichetta": "Temperature limite di applicazione",
+          "valore": "da +10 a +30 °C"
+        },
+        {
+          "etichetta": "Umidità relativa ambientale",
+          "valore": "≤ 75%"
+        },
+        {
+          "etichetta": "Resistenza allo strappo del supporto",
+          "valore": "> 1.5 MPa (ASTM D4541)"
+        },
+        {
+          "etichetta": "Resistenza a compressione del supporto",
+          "valore": "> 25 N/mm²"
+        },
+        {
+          "etichetta": "Umidità di risalita massima (igrometro al carburo)",
+          "valore": "< 3.8%; se superiore predisporre barriera al vapore con ciclo Antiumido"
+        },
+        {
+          "etichetta": "Norma di riferimento sottofondi",
+          "valore": "UNI 10966 (progettazione e posa dei sistemi resinosi per pavimentazioni)"
+        }
+      ],
+      "certificazioni": [
+        {
+          "nome": "HACCP"
+        }
+      ]
+    }
+  },
+  {
+    "titolo": "Cromateria Cocciopesto",
+    "excerpt": "Sistema decorativo antiumidità materico con ecoinerti naturali di cocciopesto per pareti e pavimenti, nelle varianti Rosso Cotto, Pietra e Carparo.",
+    "linea": [
+      "Cromateria"
+    ],
+    "problemi": [
+      "Finitura naturale in cocciopesto",
+      "Umidità di risalita su pavimento"
+    ],
+    "destinazioni": [
+      "Pareti",
+      "Pavimenti"
+    ],
+    "campi": {
+      "codice": "C.03",
+      "nome_tecnico": "Sistema decorativo antiumidità materico realizzato con ecoinerti naturali di cocciopesto per pareti o pavimenti",
+      "descrizione": "<p>Sistema decorativo antiumidità materico realizzato con ecoinerti naturali di cocciopesto per pareti o pavimenti composto da uno speciale malta che funge da barriera all'umidità che permette di posare la micro resina cocciopesto nelle varianti di colore Rosso Cotto, Pietra e Carparo.</p>",
+      "problema_titolo": "Finitura naturale in cocciopesto anche con umidità",
+      "problema_testo": "Ottenere una finitura naturale e artigianale in cocciopesto (polveri di argilla cotta recuperate a km0) su pareti o pavimenti anche in presenza di umidità, grazie alla malta che funge da barriera all'umidità.",
+      "soluzione_testo": "<p>Ciclo in 8 mani della filiera antiumido: primer epossi-cementizio bicomponente, doppia rasatura armata con rete PRONET 100 mediante malta tricomponente, doppia rasatura di finitura in micro cocciopesto bicomponente nelle varianti Rosso Cotto, Pietra e Carparo, mano di aggancio con CROMATERIA TOP diluito al 50% e doppia mano di top poliuretanico trasparente.</p>",
+      "vantaggi": [
+        {
+          "testo": "Ecoinerti naturali di cocciopesto a basso impatto ambientale (recupero a km0)"
+        },
+        {
+          "testo": "Barriera all'umidità"
+        },
+        {
+          "testo": "Resistenza chimica"
+        },
+        {
+          "testo": "Resistenza umidità"
+        },
+        {
+          "testo": "Sovrapponibile su altri supporti esistenti"
+        },
+        {
+          "testo": "Estetica artigianale con effetti chiaroscuro naturali"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "Primer antiumido",
+          "prodotto": "Cromateria Primer Antiumido",
+          "additivi": "",
+          "attrezzo": "rullo",
+          "diluizione": "",
+          "consumo": "0,200 kg/m² per mano non diluito (da scheda prodotto)",
+          "note": "Primo strato di primer bicomponente. Rif. p. 87."
+        },
+        {
+          "step": "2",
+          "ruolo": "Rasatura armata antiumido",
+          "prodotto": "Cromateria Fondo/Intermedio Antiumido",
+          "additivi": "+ PRONET 100 (rete in fibra di vetro alcali-resistente)",
+          "attrezzo": "spatola liscia",
+          "diluizione": "",
+          "consumo": "1,25 kg/m² per mm di spessore (da scheda prodotto)",
+          "note": "Rasatura con incorporazione della rete PRONET 100 mediante malta tri-componente epossicementizia fibrorinforzata. Rif. p. 89."
+        },
+        {
+          "step": "3",
+          "ruolo": "Rasatura a zero antiumido",
+          "prodotto": "Cromateria Fondo/Intermedio Antiumido",
+          "additivi": "",
+          "attrezzo": "spatola liscia",
+          "diluizione": "",
+          "consumo": "1,25 kg/m² per mm di spessore (da scheda prodotto)",
+          "note": "Rasatura a zero con malta tri-componente. Rif. p. 89."
+        },
+        {
+          "step": "4-5",
+          "ruolo": "Finitura decorativa cocciopesto (doppia rasatura)",
+          "prodotto": "Cromateria Finitura Cocciopesto",
+          "additivi": "",
+          "attrezzo": "spatola liscia",
+          "diluizione": "",
+          "consumo": "0,6 kg/m² per mm di spessore (da scheda prodotto)",
+          "note": "Doppia rasatura di finitura decorativa in micro cocciopesto bicomponente. Rif. p. 92."
+        },
+        {
+          "step": "6",
+          "ruolo": "Primer di fondo per il top",
+          "prodotto": "Cromateria Top",
+          "additivi": "",
+          "attrezzo": "rullo",
+          "diluizione": "50% con acqua",
+          "consumo": "",
+          "note": "Primer realizzato con CROMATERIA TOP diluito con acqua al 50%. Rif. p. 93."
+        },
+        {
+          "step": "7-8",
+          "ruolo": "Top protettivo trasparente (doppia mano)",
+          "prodotto": "Cromateria Top",
+          "additivi": "",
+          "attrezzo": "rullo o spatola liscia in plastica",
+          "diluizione": "",
+          "consumo": "0,08 kg/m² per mano A+B (da scheda prodotto)",
+          "note": "Doppia mano di finitura trasparente. Rif. p. 93."
+        }
+      ],
+      "spessore": "< 4 mm",
+      "n_mani": "8",
+      "tipo_sottofondo": "Cemento, ceramica, mosaici in vetro",
+      "tempi_applicazione": "8 gg",
+      "calpestabile_dopo": "7 gg",
+      "rating": [],
+      "dati_tecnici": [
+        {
+          "etichetta": "Proprietà",
+          "valore": "Resistenza chimica; Resistenza umidità; Sovrapponibile su altri supporti"
+        },
+        {
+          "etichetta": "Effetti e colori",
+          "valore": "Tre varianti colore: Rosso Cotto (Cotto/Terracotta), Pietra (Stone), Carparo. Effetti chiaroscuro naturali, profondità cromatica, aspetto vellutato tipico del cocciopesto romano"
+        },
+        {
+          "etichetta": "Sostenibilità",
+          "valore": "Variante Cocciopesto con recupero a km0 delle polveri di argilla cotta; uso di bio-resine e materie prime di fine ciclo per ridurre l'impronta di carbonio"
+        },
+        {
+          "etichetta": "Umidità residua supporti cementizi e ceramica",
+          "valore": "< 2% (< 1.7% con impianti radianti)"
+        },
+        {
+          "etichetta": "Umidità residua supporti anidrite",
+          "valore": "< 0.5% (< 0.2% con impianti radianti)"
+        },
+        {
+          "etichetta": "Temperature limite di applicazione",
+          "valore": "da +10 a +30 °C"
+        },
+        {
+          "etichetta": "Umidità relativa ambientale",
+          "valore": "≤ 75%"
+        },
+        {
+          "etichetta": "Resistenza allo strappo del supporto",
+          "valore": "> 1.5 MPa (ASTM D4541)"
+        },
+        {
+          "etichetta": "Resistenza a compressione del supporto",
+          "valore": "> 25 N/mm²"
+        },
+        {
+          "etichetta": "Umidità di risalita massima (igrometro al carburo)",
+          "valore": "< 3.8%; se superiore predisporre barriera al vapore con ciclo Antiumido"
+        },
+        {
+          "etichetta": "Norma di riferimento sottofondi",
+          "valore": "UNI 10966 (progettazione e posa dei sistemi resinosi per pavimentazioni)"
+        }
+      ],
+      "certificazioni": [
+        {
+          "nome": "HACCP"
+        }
+      ]
+    }
+  },
+  {
+    "titolo": "Cromateria Cement",
+    "excerpt": "Sistema decorativo antiumidità materico ad effetto chiaro-scuro micro cemento per pareti e pavimenti, con barriera all'umidità e top poliuretanico antigraffio certificato HACCP.",
+    "linea": [
+      "Cromateria"
+    ],
+    "problemi": [
+      "Effetto micro cemento su pareti e pavimenti",
+      "Umidità di risalita su pavimento"
+    ],
+    "destinazioni": [
+      "Pareti",
+      "Pavimenti"
+    ],
+    "campi": {
+      "codice": "C.04",
+      "nome_tecnico": "Sistema decorativo antiumidità materico colorato ad effetto chiaro-scuro per pareti o pavimenti",
+      "descrizione": "<p>Sistema multistrato ad effetto materico chiaro/scuro da realizzarsi previa preparazione dei supporti con speciale rasante epossi-cementizio fibrato che permette di realizzare una barriera all'umidità di spinta negativa e positiva prima della stesura di un doppio strato di micro cemento a granulometria fine, protetto da verniciatura con resina poliuretanica alifatica antigraffio e impermeabilizzante, certificata HACCP.</p>",
+      "problema_titolo": "Effetto micro cemento anche in presenza di umidità",
+      "problema_testo": "Ottenere l'effetto micro-cemento contemporaneo con chiaroscuro naturale su pareti o pavimenti anche in presenza di umidità di spinta negativa e positiva.",
+      "soluzione_testo": "<p>Ciclo in 8 mani della filiera antiumido: primer epossi-cementizio bicomponente, doppia rasatura armata con rete PRONET 100 mediante malta tricomponente, doppia rasatura di finitura in micro cemento bicomponente con effetto chiaroscuro, mano di aggancio con CROMATERIA TOP diluito al 50% e doppia mano di top poliuretanico trasparente.</p>",
+      "vantaggi": [
+        {
+          "testo": "Effetto chiaro/scuro tipico delle superfici cementizie contemporanee"
+        },
+        {
+          "testo": "Barriera all'umidità di spinta negativa e positiva"
+        },
+        {
+          "testo": "Resistenza chimica"
+        },
+        {
+          "testo": "Resistenza umidità"
+        },
+        {
+          "testo": "Sovrapponibile su altri supporti esistenti"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "Primer antiumido",
+          "prodotto": "Cromateria Primer Antiumido",
+          "additivi": "",
+          "attrezzo": "rullo",
+          "diluizione": "",
+          "consumo": "0,200 kg/m² per mano non diluito (da scheda prodotto)",
+          "note": "Primo strato di primer bicomponente. Rif. p. 87."
+        },
+        {
+          "step": "2",
+          "ruolo": "Rasatura armata antiumido",
+          "prodotto": "Cromateria Fondo/Intermedio Antiumido",
+          "additivi": "+ PRONET 100 (rete in fibra di vetro alcali-resistente)",
+          "attrezzo": "spatola liscia",
+          "diluizione": "",
+          "consumo": "1,25 kg/m² per mm di spessore (da scheda prodotto)",
+          "note": "Rasatura con incorporazione della rete PRONET 100 mediante malta tri-componente epossicementizia fibrorinforzata. Rif. p. 89."
+        },
+        {
+          "step": "3",
+          "ruolo": "Rasatura a zero antiumido",
+          "prodotto": "Cromateria Fondo/Intermedio Antiumido",
+          "additivi": "",
+          "attrezzo": "spatola liscia",
+          "diluizione": "",
+          "consumo": "1,25 kg/m² per mm di spessore (da scheda prodotto)",
+          "note": "Rasatura a zero con malta tricomponente. Rif. p. 89."
+        },
+        {
+          "step": "4-5",
+          "ruolo": "Finitura decorativa micro cemento (doppia rasatura)",
+          "prodotto": "Cromateria Finitura Cement",
+          "additivi": "",
+          "attrezzo": "spatola liscia",
+          "diluizione": "",
+          "consumo": "0,6 kg/m² per mm di spessore (da scheda prodotto)",
+          "note": "Doppia rasatura di finitura in micro cemento con effetto chiaroscuro. Rif. p. 91."
+        },
+        {
+          "step": "6",
+          "ruolo": "Primer di fondo per il top",
+          "prodotto": "Cromateria Top",
+          "additivi": "",
+          "attrezzo": "rullo",
+          "diluizione": "50% con acqua",
+          "consumo": "",
+          "note": "Primer realizzato con CROMATERIA TOP diluito con acqua al 50%. Rif. p. 93."
+        },
+        {
+          "step": "7-8",
+          "ruolo": "Top protettivo trasparente (doppia mano)",
+          "prodotto": "Cromateria Top",
+          "additivi": "",
+          "attrezzo": "rullo o spatola liscia in plastica",
+          "diluizione": "",
+          "consumo": "0,08 kg/m² per mano A+B (da scheda prodotto)",
+          "note": "Doppia mano di finitura trasparente. Rif. p. 93."
+        }
+      ],
+      "spessore": "< 4 mm",
+      "n_mani": "8",
+      "tipo_sottofondo": "Cemento, ceramica, mosaici in vetro",
+      "tempi_applicazione": "8 gg",
+      "calpestabile_dopo": "7 gg",
+      "rating": [],
+      "dati_tecnici": [
+        {
+          "etichetta": "Proprietà",
+          "valore": "Resistenza chimica; Resistenza umidità; Sovrapponibile su altri supporti"
+        },
+        {
+          "etichetta": "Effetti e colori",
+          "valore": "Effetto chiaro/scuro (chiaroscuro naturale), profondità cromatica, aspetto vellutato delle superfici cementizie contemporanee; colorabile con TintoSystem (RAL, NCS, Colortrend Collection, Finitura Cement)"
+        },
+        {
+          "etichetta": "Sistema tintometrico",
+          "valore": "TintoSystem: 940 colori base, cartelle RAL, NCS, Colortrend Collection, Finitura Cement; pigmenti e paste coloranti di ultima generazione prive di sostanze nocive"
+        },
+        {
+          "etichetta": "Gamma linea Cromateria",
+          "valore": "940 colori, 4 granulometrie (dalla più fine 02, liscia come seta, alla 06, matericità strutturale), 3 finiture (opaca, satinata, lucida), 3 effetti decorativi (micro resina, micro cemento, micro cocciopesto); ciclo in 8 passaggi per soli 3 mm di spessore"
+        },
+        {
+          "etichetta": "Umidità residua supporti cementizi e ceramica",
+          "valore": "< 2% (< 1.7% con impianti radianti)"
+        },
+        {
+          "etichetta": "Umidità residua supporti anidrite",
+          "valore": "< 0.5% (< 0.2% con impianti radianti)"
+        },
+        {
+          "etichetta": "Temperature limite di applicazione",
+          "valore": "da +10 a +30 °C"
+        },
+        {
+          "etichetta": "Umidità relativa ambientale",
+          "valore": "≤ 75%"
+        },
+        {
+          "etichetta": "Resistenza allo strappo del supporto",
+          "valore": "> 1.5 MPa (ASTM D4541)"
+        },
+        {
+          "etichetta": "Resistenza a compressione del supporto",
+          "valore": "> 25 N/mm²"
+        },
+        {
+          "etichetta": "Umidità di risalita massima (igrometro al carburo)",
+          "valore": "< 3.8%; se superiore predisporre barriera al vapore con ciclo Antiumido"
+        },
+        {
+          "etichetta": "Norma di riferimento sottofondi",
+          "valore": "UNI 10966 (progettazione e posa dei sistemi resinosi per pavimentazioni)"
+        }
+      ],
+      "certificazioni": [
+        {
+          "nome": "HACCP"
+        }
+      ]
+    }
+  },
+  {
+    "titolo": "Cromateria In&Out",
+    "excerpt": "Sistema decorativo materico Cromateria Pool per piscine in cemento armato: impermeabilizzazione e rivestimento continuo in un'unica soluzione, resistente ad acqua clorata o salata e ai raggi UV.",
+    "linea": [
+      "Cromateria Pool"
+    ],
+    "problemi": [
+      "Piscina in cemento armato da impermeabilizzare e rivestire",
+      "Vecchio rivestimento piscina deteriorato"
+    ],
+    "destinazioni": [
+      "Piscine",
+      "Centri benessere"
+    ],
+    "campi": {
+      "codice": "C.05",
+      "nome_tecnico": "Sistema decorativo materico per piscine in cemento armato",
+      "descrizione": "<p>Sistema resinoso multistrato realizzato con malta tixotropica epossi-cementizia internamente fibrata che permette il ripristino e la rasatura con finitura liscia dei supporti orizzontali o verticali quando è necessario realizzare una barriera all'umidità di spinta negativa e positiva prima della verniciatura con resina poliuretanica alifatica UV-resistente con buona resistenza ai liquidi chimici aggressivi.</p>",
+      "problema_titolo": "Impermeabilizzare e rivestire la piscina in un'unica soluzione",
+      "problema_testo": "Impermeabilizzare e rivestire in un'unica soluzione piscine in cemento armato (nuove o con vecchi rivestimenti deteriorati), con barriera all'umidità di spinta negativa e positiva, resistenza ad acqua clorata/salata, UV e agenti atmosferici.",
+      "soluzione_testo": "<p>Ciclo in 6 mani: primer epossi-cementizio antiumido, doppia rasatura armata con rete PRONET 100 mediante malta tricomponente fibrorinforzata, due mani colorate di resina epossi-cementizia fillerizzata nel colore scelto e top poliuretanico alifatico trasparente UV-resistente PURTOP VF200/300-T. Efficace anche con pressione idraulica negativa e su supporti microfessurati; finitura additivabile con grip antiscivolo.</p>",
+      "vantaggi": [
+        {
+          "testo": "Impermeabilizzazione e rivestimento in un'unica soluzione"
+        },
+        {
+          "testo": "Resistenza al calpestio"
+        },
+        {
+          "testo": "Resistenza alla luce (UV)"
+        },
+        {
+          "testo": "Resistenza umidità"
+        },
+        {
+          "testo": "Buona resistenza ai liquidi chimici aggressivi"
+        },
+        {
+          "testo": "Efficace anche con pressione idraulica negativa e supporti microfessurati"
+        },
+        {
+          "testo": "Finitura antiscivolo additivabile"
+        },
+        {
+          "testo": "Idoneo per piscine nuove, per il ripristino di vecchi rivestimenti deteriorati e per piscine ad acqua salata"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "Primer antiumido",
+          "prodotto": "Cromateria Primer Antiumido",
+          "additivi": "",
+          "attrezzo": "rullo",
+          "diluizione": "",
+          "consumo": "0,200 kg/m² per mano non diluito (da scheda prodotto)",
+          "note": "Primo strato di resina epossi-cementizia fillerizzata. Rif. p. 87."
+        },
+        {
+          "step": "2",
+          "ruolo": "Rasatura armata antiumido",
+          "prodotto": "Cromateria Fondo/Intermedio Antiumido",
+          "additivi": "+ PRONET 100 (rete in fibra di vetro alcali-resistente)",
+          "attrezzo": "spatola liscia",
+          "diluizione": "",
+          "consumo": "1,25 kg/m² per mm di spessore (da scheda prodotto)",
+          "note": "Rasatura con incorporazione della rete PRONET 100, malta tri-componente epossicementizia fibrorinforzata. Rif. p. 89."
+        },
+        {
+          "step": "3",
+          "ruolo": "Seconda rasatura antiumido",
+          "prodotto": "Cromateria Fondo/Intermedio Antiumido",
+          "additivi": "",
+          "attrezzo": "spatola liscia",
+          "diluizione": "",
+          "consumo": "1,25 kg/m² per mm di spessore (da scheda prodotto)",
+          "note": "Secondo passaggio per regolarizzazione superficiale. Rif. p. 89."
+        },
+        {
+          "step": "4-5",
+          "ruolo": "Strato colorato (doppia mano)",
+          "prodotto": "Cromateria Primer Antiumido",
+          "additivi": "",
+          "attrezzo": "rullo",
+          "diluizione": "",
+          "consumo": "0,200 kg/m² per mano (da scheda prodotto)",
+          "note": "Due mani di resina epossi-cementizia fillerizzata nel colore scelto (colorabile con TintoSystem). Rif. p. 87."
+        },
+        {
+          "step": "6-7",
+          "ruolo": "Top protettivo poliuretanico trasparente",
+          "prodotto": "PURTOP VF200/300-T",
+          "additivi": "",
+          "attrezzo": "rullo",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Resina poliuretanica alifatica trasparente 2K UV-resistente con buona resistenza ai liquidi chimici aggressivi. Il testo dello step dice 'una mano' ma la numerazione copre gli step 6-7 (N. mani dichiarato: 6). Prodotto fuori sezione Prodotti Cromateria (senza scheda nel catalogo)."
+        }
+      ],
+      "spessore": "< 4 mm",
+      "n_mani": "6",
+      "tipo_sottofondo": "Cemento, ceramica, pannelli EPS",
+      "tempi_applicazione": "7 gg",
+      "calpestabile_dopo": "7 gg",
+      "rating": [],
+      "dati_tecnici": [
+        {
+          "etichetta": "Proprietà",
+          "valore": "Resistenza al calpestio; Resistenza alla luce; Resistenza umidità"
+        },
+        {
+          "etichetta": "Effetti e colori",
+          "valore": "Colore a scelta tramite le due mani colorate di Primer Antiumido; finitura liscia materica; possibile grip antiscivolo (linea Pool)"
+        },
+        {
+          "etichetta": "Vantaggi linea Cromateria Pool",
+          "valore": "Finitura materica senza giunti; estetica unica; flessibile e resistente; efficace anche in presenza di pressione idraulica negativa; piacevole al tatto e sicuro grazie all'effetto antiscivolo; continuo, igienico e facilmente pulibile; facile applicazione anche su superfici irregolari; impermeabilizzazione e rivestimento senza fughe in un'unica soluzione; intervento rapido e versatile sia per piscine nuove sia per il restauro di piscine danneggiate"
+        },
+        {
+          "etichetta": "Umidità residua supporti cementizi e ceramica",
+          "valore": "< 2% (< 1.7% con impianti radianti)"
+        },
+        {
+          "etichetta": "Umidità residua supporti anidrite",
+          "valore": "< 0.5% (< 0.2% con impianti radianti)"
+        },
+        {
+          "etichetta": "Temperature limite di applicazione",
+          "valore": "da +10 a +30 °C"
+        },
+        {
+          "etichetta": "Umidità relativa ambientale",
+          "valore": "≤ 75%"
+        },
+        {
+          "etichetta": "Resistenza allo strappo del supporto",
+          "valore": "> 1.5 MPa (ASTM D4541)"
+        },
+        {
+          "etichetta": "Resistenza a compressione del supporto",
+          "valore": "> 25 N/mm²"
+        },
+        {
+          "etichetta": "Umidità di risalita massima (igrometro al carburo)",
+          "valore": "< 3.8%; se superiore predisporre barriera al vapore con ciclo Antiumido"
+        },
+        {
+          "etichetta": "Norma di riferimento sottofondi",
+          "valore": "UNI 10966 (progettazione e posa dei sistemi resinosi per pavimentazioni)"
+        }
+      ],
+      "certificazioni": []
+    }
+  },
+  {
+    "titolo": "Cromateria Vr",
+    "excerpt": "Sistema verniciante Cromateria Pool a base di resina epossidica ad alto solido per il ripristino di piscine in vetroresina: rinnova l'estetica e migliora l'impermeabilizzazione con elevata resistenza all'acqua clorata.",
+    "linea": [
+      "Cromateria Pool"
+    ],
+    "problemi": [
+      "Piscina in vetroresina da rinnovare"
+    ],
+    "destinazioni": [
+      "Piscine"
+    ],
+    "campi": {
+      "codice": "C.06",
+      "nome_tecnico": "Sistema verniciante per ripristino di piscine in vetroresina",
+      "descrizione": "<p>Sistema colorato a base di resina epossidica ad alto solido, con eccellente adesione ai supporti in vetroresina. Ideale per il recupero di piscine esistenti, rinnova l'estetica delle superfici e al tempo stesso migliora l'impermeabilizzazione, garantendo elevata resistenza all'acqua clorata.</p>",
+      "problema_titolo": "Ripristinare la piscina in vetroresina senza rifare la vasca",
+      "problema_testo": "Ripristinare piscine esistenti in vetroresina: rinnovare l'estetica e migliorare l'impermeabilizzazione con elevata resistenza all'acqua clorata, senza rifare la vasca.",
+      "soluzione_testo": "<p>Ciclo rapido a basso spessore in 3 mani: due mani colorate di resina epossidica alifatica ad alto solido VITROX RA500-C nel colore scelto e una mano di top trasparente VITROX RA500-T; per aumentare l'effetto antiscivolo, aggiungere il 10% di ADDITIVO ANTISDRUCCIOLO nel prodotto prima dell'applicazione.</p>",
+      "vantaggi": [
+        {
+          "testo": "Alta adesione alla vetroresina"
+        },
+        {
+          "testo": "Flessibilità"
+        },
+        {
+          "testo": "Resistenza chimica (acqua clorata)"
+        },
+        {
+          "testo": "Ciclo rapido a basso spessore (3 mani, < 0,3 mm)"
+        },
+        {
+          "testo": "Effetto antiscivolo aumentabile con additivo"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "Prima mano colorata",
+          "prodotto": "Vitrox RA500",
+          "additivi": "",
+          "attrezzo": "rullo",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Resina epossidica alifatica ad alto solido 2K nel colore scelto. Nessuna scheda prodotto nella sezione Prodotti del catalogo."
+        },
+        {
+          "step": "2",
+          "ruolo": "Seconda mano colorata",
+          "prodotto": "Vitrox RA500",
+          "additivi": "",
+          "attrezzo": "rullo",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Nel colore scelto."
+        },
+        {
+          "step": "3",
+          "ruolo": "Top trasparente",
+          "prodotto": "Vitrox RA500",
+          "additivi": "+ 10% ADDITIVO ANTISDRUCCIOLO (opzionale, per aumentare l'effetto antiscivolo)",
+          "attrezzo": "rullo",
+          "diluizione": "",
+          "consumo": "",
+          "note": "Resina epossidica alto solido trasparente. Nota: il riquadro stratigrafia a pagina 40 elenca graficamente solo gli step 1-2; lo step 3 è descritto nel testo (N. mani dichiarato: 3)."
+        }
+      ],
+      "spessore": "< 0,3 mm",
+      "n_mani": "3",
+      "tipo_sottofondo": "Vetroresina",
+      "tempi_applicazione": "4 gg",
+      "calpestabile_dopo": "7 gg",
+      "rating": [],
+      "dati_tecnici": [
+        {
+          "etichetta": "Proprietà",
+          "valore": "Alta adesione; Flessibilità; Resistenza chimica"
+        },
+        {
+          "etichetta": "Effetti e colori",
+          "valore": "Sistema colorato nel colore scelto; finitura trasparente protettiva; antiscivolo opzionale (+10% additivo)"
+        },
+        {
+          "etichetta": "Vantaggi linea Cromateria Pool",
+          "valore": "Finitura materica senza giunti; estetica unica; flessibile e resistente; efficace anche in presenza di pressione idraulica negativa; piacevole al tatto e sicuro grazie all'effetto antiscivolo; continuo, igienico e facilmente pulibile; facile applicazione anche su superfici irregolari; impermeabilizzazione e rivestimento senza fughe in un'unica soluzione; intervento rapido e versatile sia per piscine nuove sia per il restauro di piscine danneggiate"
+        }
+      ],
+      "certificazioni": []
+    }
+  },
+  {
+    "titolo": "Cromateria Stone Design",
+    "excerpt": "Sistema decorativo per pavimentazioni continue drenanti in sasso lavato: inerti naturali a vista incapsulati in resina trasparente, antiscivolo e carrabile, posabile senza demolire.",
+    "linea": [
+      "Cromateria"
+    ],
+    "categorie": [
+      "Stone Design"
+    ],
+    "problemi": [
+      "Pavimentazione esterna con ristagni d'acqua",
+      "Rivestire cortili e bordi piscina senza demolire"
+    ],
+    "destinazioni": [
+      "Bordi piscina",
+      "Cortili e aree outdoor",
+      "Terrazze",
+      "Parcheggi",
+      "Piazze e marciapiedi"
+    ],
+    "campi": {
+      "codice": "C.07",
+      "nome_tecnico": "Sistema decorativo per la realizzazione di pavimentazioni continue con capacità drenanti",
+      "descrizione": "<p>Rivestimento continuo caratterizzato da inerti naturali a vista, miscelati con resina CROMATERIA STONE DESIGN. I pavimenti CROMATERIA STONE DESIGN garantiscono un'elevata resa estetica e un'ampia possibilità di personalizzazione, ottenuta attraverso la combinazione di diverse forme, granulometrie e tipologie/cromie di graniglia. Ideali per ambienti residenziali interni ed esterni come cortili, villette, spazi condominiali e aree outdoor. Le superfici realizzate consentono di limitare fenomeni di ruscellamento e ristagno d'acqua, in particolare di origine meteorica, mantenendo il piano di calpestio il più possibile asciutto e sicuro. Il sistema risulta carrabile ed è pertanto idoneo anche per aree di parcheggio.</p>",
+      "problema_titolo": "Pavimentazioni esterne drenanti senza demolire",
+      "problema_testo": "Realizzare pavimentazioni esterne continue drenanti in sasso lavato: eliminare ristagni, pozzanghere e ruscellamento (anche prevenzione ghiaccio), con superficie antiscivolo e carrabile, posabile su supporti esistenti anche ammalorati senza demolizione.",
+      "soluzione_testo": "<p>Impasto drenante di resina poliuretanica-siliconica trasparente non ingiallente CROMATERIA STONE DESIGN e sasso lavato 3-5 mm nel rapporto in peso 1:15, steso a staggia con guide laterali in acciaio e compattato fino a corretta coesione, planarità e apertura drenante; su supporti sfarinanti, previa mano di CROMATERIA PRIMER. Approccio a impatto zero: posa diretta su cemento o piastrelle anche ammalorati senza demolizione.</p>",
+      "vantaggi": [
+        {
+          "testo": "Elasticità"
+        },
+        {
+          "testo": "Adesione"
+        },
+        {
+          "testo": "Pedonabilità"
+        },
+        {
+          "testo": "Alta capacità drenante"
+        },
+        {
+          "testo": "Antiscivolo e carrabile"
+        },
+        {
+          "testo": "Posa su cemento o piastrelle esistenti anche ammalorati, senza demolizione (impatto zero)"
+        },
+        {
+          "testo": "Resistente a macchie, agenti chimici, UV, sollecitazioni meccaniche, sbalzi termici, ambienti salini"
+        },
+        {
+          "testo": "Tin Free e privo di metalli pesanti"
+        },
+        {
+          "testo": "Personalizzazione: mosaici, geometrie custom, loghi aziendali integrati nel sistema"
+        }
+      ],
+      "stratigrafia": [
+        {
+          "step": "1",
+          "ruolo": "Primer (solo su supporti sfarinanti)",
+          "prodotto": "Cromateria Primer",
+          "additivi": "",
+          "attrezzo": "pennellessa o rullo specifico",
+          "diluizione": "",
+          "consumo": "0,200 kg/m² per mano (da scheda prodotto)",
+          "note": "Solo in caso di supporti sfarinanti; distribuire in modo omogeneo e uniforme sulla pavimentazione e sulle superfici verticali coinvolte. Rif. p. 86."
+        },
+        {
+          "step": "2",
+          "ruolo": "Impasto drenante resina + sasso lavato",
+          "prodotto": "Cromateria Stone Design",
+          "additivi": "+ CROMATERIA STONE DESIGN SASSO LAVATO 3-5 mm (rapporto in peso 1:15)",
+          "attrezzo": "staggia con guide laterali in acciaio, spatola di acciaio; compattazione manuale o meccanizzata",
+          "diluizione": "",
+          "consumo": "1 kg resina : 15 kg sasso lavato 3-5 mm per m² per 1 cm di spessore",
+          "note": "Miscelare in contenitore pulito nel rapporto 1:15 salvo diverse indicazioni di scheda tecnica o del servizio tecnico. Guide laterali in acciaio di spessore pari alla pavimentazione per il livellamento; stesura a staggia; compattazione fino a corretta coesione, planarità e apertura drenante. Supporti irregolari o metodi di posa possono alterare i consumi: test preventivo consigliato. Rif. p. 94."
+        }
+      ],
+      "spessore": "",
+      "n_mani": "",
+      "tipo_sottofondo": "Massetto drenante o pendenziato",
+      "tempi_applicazione": "",
+      "calpestabile_dopo": "",
+      "rating": [],
+      "dati_tecnici": [
+        {
+          "etichetta": "Proprietà",
+          "valore": "Elasticità; Adesione; Pedonabilità"
+        },
+        {
+          "etichetta": "Ideale per",
+          "valore": "Bordi piscina, passaggi pedonabili"
+        },
+        {
+          "etichetta": "Da rivestire",
+          "valore": "Non necessario"
+        },
+        {
+          "etichetta": "Rete di armatura",
+          "valore": "Non necessaria"
+        },
+        {
+          "etichetta": "Cartella colori graniglie",
+          "valore": "7 cromie ispirate ai marmi naturali: GR01 Botticino, GR02 Giallo Siena, GR03 Grigio Cenere, GR04 Verde Alpi, GR05 Bianco Carrara, GR06 Rosso Verona, GR07 Nero Ebano"
+        },
+        {
+          "etichetta": "Effetti e personalizzazione",
+          "valore": "Superfici monocromatiche, mosaici articolati, geometrie custom, loghi e decorazioni integrate"
+        },
+        {
+          "etichetta": "Granulometria inerti",
+          "valore": "Sasso lavato 3-5 mm"
+        }
+      ],
+      "certificazioni": []
+    }
+  }
+]
