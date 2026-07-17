@@ -53,9 +53,18 @@ add_action( 'acf/init', function () {
 
 			/* ---------------- DATI TECNICI ---------------- */
 			array( 'key' => 'f_pmp_tab_dt', 'label' => 'Dati tecnici', 'type' => 'tab' ),
+			array(
+				'key'  => 'f_pmp_applicazione', 'name' => 'applicazione', 'label' => 'Applicazione',
+				'type' => 'textarea', 'rows' => 3, 'instructions' => 'Come si applica il prodotto (mani, attrezzi, condizioni).',
+			),
 			array( 'key' => 'f_pmp_resa', 'name' => 'resa', 'label' => 'Resa / consumo', 'type' => 'text', 'instructions' => 'Es. 8–10 m²/L per mano.' ),
 			array( 'key' => 'f_pmp_diluizione', 'name' => 'diluizione', 'label' => 'Diluizione', 'type' => 'text' ),
 			array( 'key' => 'f_pmp_essiccazione', 'name' => 'essiccazione', 'label' => 'Essiccazione', 'type' => 'text' ),
+			array(
+				'key'  => 'f_pmp_voce_capitolato', 'name' => 'voce_capitolato', 'label' => 'Voce di capitolato',
+				'type' => 'textarea', 'rows' => 4,
+				'instructions' => 'Testo ufficiale per capitolati d\'appalto (B2B: progettisti e imprese la copiano così com\'è).',
+			),
 			array(
 				'key'  => 'f_pmp_dati_tecnici', 'name' => 'dati_tecnici', 'label' => 'Altri dati tecnici',
 				'type' => 'repeater', 'layout' => 'table', 'button_label' => 'Aggiungi dato',
