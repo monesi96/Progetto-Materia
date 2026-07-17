@@ -22,6 +22,7 @@ require_once PM_CAT_PATH . 'includes/fields-sistema.php';
 require_once PM_CAT_PATH . 'includes/fields-prodotto.php';
 require_once PM_CAT_PATH . 'includes/rest.php';
 require_once PM_CAT_PATH . 'includes/import.php';
+require_once PM_CAT_PATH . 'includes/hero.php';
 
 register_activation_hook( __FILE__, function () {
 	pm_cat_register_taxonomies();

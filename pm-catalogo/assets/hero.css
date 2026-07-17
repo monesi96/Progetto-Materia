@@ -1,0 +1,120 @@
+/* Hero parallax Progetto Materia — scopato sotto .pm-hero */
+
+.pm-hero {
+	position: relative;
+	min-height: 100svh;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	overflow: clip;
+	color: #fff;
+	isolation: isolate;
+}
+
+/* ---- piano 1: media ---- */
+.pm-hero__media {
+	position: absolute;
+	inset: -12% 0; /* margine extra per il movimento parallax */
+	z-index: -1;
+	will-change: transform;
+}
+.pm-hero__video {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	display: block;
+}
+.pm-hero__scrim {
+	position: absolute;
+	inset: 0;
+	background:
+		linear-gradient(180deg, rgba(10, 20, 30, .25) 0%, rgba(10, 20, 30, 0) 35%, rgba(10, 20, 30, .55) 100%);
+}
+
+/* ---- piano 2: contenuto ---- */
+.pm-hero__content {
+	position: relative;
+	padding: clamp(24px, 6vw, 96px);
+	padding-bottom: clamp(140px, 24vh, 260px);
+	max-width: 880px;
+	will-change: transform;
+}
+.pm-hero__eyebrow {
+	font-size: clamp(12px, 1.2vw, 14px);
+	letter-spacing: .18em;
+	text-transform: uppercase;
+	opacity: .85;
+	margin: 0 0 14px;
+}
+.pm-hero__title {
+	font-size: clamp(38px, 6.5vw, 84px);
+	line-height: 1.04;
+	font-weight: 700;
+	letter-spacing: -.02em;
+	margin: 0 0 18px;
+	text-shadow: 0 2px 24px rgba(0, 0, 0, .25);
+}
+.pm-hero__lead {
+	font-size: clamp(16px, 1.6vw, 21px);
+	line-height: 1.5;
+	max-width: 560px;
+	opacity: .92;
+	margin: 0 0 26px;
+}
+.pm-hero__ctas { display: flex; gap: 12px; flex-wrap: wrap; }
+.pm-hero__cta {
+	display: inline-block;
+	padding: 14px 26px;
+	border-radius: 999px;
+	font-weight: 600;
+	font-size: 15px;
+	text-decoration: none !important;
+	transition: transform .25s ease, background .25s ease, color .25s ease;
+}
+.pm-hero__cta:hover { transform: translateY(-2px); }
+.pm-hero__cta--solid { background: #fff !important; color: #10222e !important; }
+.pm-hero__cta--ghost { border: 1.5px solid rgba(255, 255, 255, .7); color: #fff !important; }
+.pm-hero__cta--ghost:hover { background: rgba(255, 255, 255, .12); }
+
+/* ---- piano 3: card linee ---- */
+.pm-hero__cards {
+	position: relative;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: 1px;
+	background: rgba(255, 255, 255, .14);
+	backdrop-filter: blur(14px);
+	-webkit-backdrop-filter: blur(14px);
+}
+.pm-hero__card {
+	display: flex;
+	flex-direction: column;
+	gap: 6px;
+	padding: clamp(18px, 2.4vw, 30px);
+	background: rgba(16, 34, 46, .38);
+	color: #fff !important;
+	text-decoration: none !important;
+	opacity: 0;
+	transform: translateY(34px);
+	transition: opacity .7s ease, transform .7s cubic-bezier(.2, .7, .2, 1), background .3s ease;
+}
+.pm-hero__card.is-in { opacity: 1; transform: translateY(0); }
+.pm-hero__card:hover { background: rgba(16, 34, 46, .62); }
+.pm-hero__card-name { font-weight: 700; font-size: clamp(16px, 1.5vw, 20px); letter-spacing: -.01em; }
+.pm-hero__card-desc { font-size: clamp(12px, 1.1vw, 14px); opacity: .8; line-height: 1.4; }
+.pm-hero__card-arrow { margin-top: 4px; opacity: .6; transition: transform .3s ease; }
+.pm-hero__card:hover .pm-hero__card-arrow { transform: translateX(6px); opacity: 1; }
+
+/* ---- responsive / accessibilità ---- */
+@media (max-width: 880px) {
+	.pm-hero__cards { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 520px) {
+	.pm-hero__cards { grid-template-columns: 1fr; }
+}
+@media (prefers-reduced-motion: reduce) {
+	.pm-hero__media, .pm-hero__content { transform: none !important; }
+	.pm-hero__card { opacity: 1; transform: none; transition: none; }
+	.pm-hero__video { display: none; }
+	.pm-hero__media img.pm-hero__video { display: block; }
+}
